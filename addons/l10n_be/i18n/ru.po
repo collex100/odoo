@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: openobject-addons\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2012-11-24 02:53+0000\n"
-"PO-Revision-Date: 2015-04-16 14:37+0200\n"
+"PO-Revision-Date: 2015-04-16 17:24+0200\n"
 "Last-Translator: collex <manyatovskiy@gmail.com>\n"
 "Language-Team: Russian <http://translation.pandaplus.biz/projects/odoo-"
 "80_ru/l10n_be/ru/>\n"
@@ -758,7 +758,7 @@ msgstr ""
 #: view:partner.vat.intra:0
 #: view:partner.vat.list:0
 msgid "Cancel"
-msgstr "Отменена"
+msgstr "Отменить"
 
 #. module: l10n_be
 #: code:addons/l10n_be/wizard/l10n_be_account_vat_declaration.py:112
