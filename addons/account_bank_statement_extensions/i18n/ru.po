@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: openobject-addons\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-08-14 13:08+0000\n"
-"PO-Revision-Date: 2015-04-16 14:51+0200\n"
+"PO-Revision-Date: 2015-04-16 17:24+0200\n"
 "Last-Translator: collex <manyatovskiy@gmail.com>\n"
 "Language-Team: Russian <http://translation.pandaplus.biz/projects/odoo-"
 "80_ru/account_bank_statement_extensions/ru/>\n"
@@ -89,7 +89,7 @@ msgstr ""
 #. module: account_bank_statement_extensions
 #: view:confirm.statement.line:account_bank_statement_extensions.view_confirm_statement_line
 msgid "Cancel"
-msgstr "Отмена"
+msgstr "Отменить"
 
 #. module: account_bank_statement_extensions
 #: view:cancel.statement.line:account_bank_statement_extensions.view_cancel_statement_line
