@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: openobject-addons\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-23 16:27+0000\n"
-"PO-Revision-Date: 2015-04-16 14:37+0200\n"
+"PO-Revision-Date: 2015-04-16 17:24+0200\n"
 "Last-Translator: collex <manyatovskiy@gmail.com>\n"
 "Language-Team: Russian <http://translation.pandaplus.biz/projects/odoo-"
 "80_ru/account_voucher/ru/>\n"
@@ -204,7 +204,7 @@ msgstr "Оплата счетов"
 #. module: account_voucher
 #: view:account.voucher:account_voucher.view_vendor_receipt_dialog_form
 msgid "Cancel"
-msgstr "Отменена"
+msgstr "Отменить"
 
 #. module: account_voucher
 #: view:account.voucher:account_voucher.view_sale_receipt_form
