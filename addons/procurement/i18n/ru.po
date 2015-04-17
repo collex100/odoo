@@ -143,7 +143,7 @@ msgstr "Подтверждено"
 #: field:procurement.order.compute.all,create_uid:0
 #: field:procurement.rule,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: procurement
 #: field:procurement.group,create_date:0
@@ -151,12 +151,12 @@ msgstr ""
 #: field:procurement.order.compute.all,create_date:0
 #: field:procurement.rule,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: procurement
 #: help:procurement.order,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: procurement
 #: field:procurement.group,move_type:0
@@ -239,7 +239,7 @@ msgstr ""
 #: field:procurement.order.compute.all,id:0
 #: field:procurement.rule,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: procurement
 #: help:procurement.order,message_unread:0
@@ -265,7 +265,7 @@ msgstr "Подписан"
 #. module: procurement
 #: field:procurement.order,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: procurement
 #: field:procurement.group,write_uid:0
@@ -273,7 +273,7 @@ msgstr ""
 #: field:procurement.order.compute.all,write_uid:0
 #: field:procurement.rule,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: procurement
 #: field:procurement.group,write_date:0
@@ -281,7 +281,7 @@ msgstr ""
 #: field:procurement.order.compute.all,write_date:0
 #: field:procurement.rule,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: procurement
 #: view:procurement.order:procurement.view_procurement_filter
@@ -385,7 +385,7 @@ msgstr ""
 #. module: procurement
 #: view:procurement.group:procurement.procurement_group_form_view
 msgid "Procurement group"
-msgstr ""
+msgstr "Группа поставок"
 
 #. module: procurement
 #: view:procurement.order:procurement.view_procurement_filter
@@ -511,7 +511,7 @@ msgstr "Искать снабжение"
 #. module: procurement
 #: field:procurement.rule,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Последовательность"
 
 #. module: procurement
 #: field:procurement.order,origin:0
