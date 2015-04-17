@@ -352,7 +352,7 @@ msgstr ""
 #. module: website_blog
 #: view:blog.post.history.show_diff:website_blog.view_wiki_show_diff
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
 #. module: website_blog
 #: view:website:website_blog.blog_post_complete
@@ -430,7 +430,7 @@ msgstr ""
 #: field:blog.post.history.show_diff,create_uid:0
 #: field:blog.tag,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: website_blog
 #: field:blog.blog,create_date:0
@@ -438,18 +438,18 @@ msgstr ""
 #: field:blog.post.history.show_diff,create_date:0
 #: field:blog.tag,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: website_blog
 #: field:blog.post.history,create_date:0
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 #. module: website_blog
 #: help:blog.blog,message_last_post:0
 #: help:blog.post,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: website_blog
 #. openerp-web
@@ -461,7 +461,7 @@ msgstr ""
 #. module: website_blog
 #: field:blog.blog,description:0
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #. module: website_blog
 #: field:blog.post.history.show_diff,diff:0
@@ -527,7 +527,7 @@ msgstr ""
 #: field:blog.blog,message_follower_ids:0
 #: field:blog.post,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Подписчики"
 
 #. module: website_blog
 #. openerp-web
@@ -542,7 +542,7 @@ msgstr ""
 #. module: website_blog
 #: view:blog.post:website_blog.view_blog_post_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: website_blog
 #: field:blog.post,history_ids:0
@@ -556,6 +556,8 @@ msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
 msgstr ""
+"Содержит обзор чата (количество сообщений, ...). Это краткое изложение "
+"непосредственно в HTML формате для того, чтобы вставить в виды kanban."
 
 #. module: website_blog
 #: field:blog.blog,id:0
@@ -564,7 +566,7 @@ msgstr ""
 #: field:blog.post.history.show_diff,id:0
 #: field:blog.tag,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: website_blog
 #: model:blog.post,subtitle:website_blog.blog_post_1
@@ -575,7 +577,7 @@ msgstr ""
 #: help:blog.blog,message_unread:0
 #: help:blog.post,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Если проверенные новые сообщения требуют вашего внимания."
 
 #. module: website_blog
 #: model:blog.post,name:website_blog.blog_post_2
@@ -586,7 +588,7 @@ msgstr ""
 #: field:blog.blog,message_is_follower:0
 #: field:blog.post,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Является подписчиком"
 
 #. module: website_blog
 #: view:blog.post:website_blog.view_blog_post_search
@@ -598,7 +600,7 @@ msgstr ""
 #: field:blog.blog,message_last_post:0
 #: field:blog.post,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: website_blog
 #: field:blog.post,write_date:0
@@ -611,7 +613,7 @@ msgstr ""
 #: field:blog.post.history.show_diff,write_uid:0
 #: field:blog.tag,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: website_blog
 #: field:blog.blog,write_date:0
@@ -619,7 +621,7 @@ msgstr ""
 #: field:blog.post.history.show_diff,write_date:0
 #: field:blog.tag,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: website_blog
 #: help:blog.post,history_ids:0
@@ -661,13 +663,13 @@ msgstr ""
 #: field:blog.blog,message_ids:0
 #: field:blog.post,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Сообщения"
 
 #. module: website_blog
 #: help:blog.blog,message_ids:0
 #: help:blog.post,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Сообщения и журнал обращений"
 
 #. module: website_blog
 #: field:blog.post.history,create_uid:0
@@ -871,7 +873,7 @@ msgstr ""
 #: field:blog.post,message_summary:0
 #: field:blog.post.history,summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Резюме"
 
 #. module: website_blog
 #: field:blog.post,tag_ids:0
@@ -936,7 +938,7 @@ msgstr ""
 #: field:blog.blog,message_unread:0
 #: field:blog.post,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Непрочитанные сообщения"
 
 #. module: website_blog
 #. openerp-web
@@ -967,7 +969,7 @@ msgstr ""
 #: code:addons/website_blog/wizard/document_page_show_diff.py:50
 #, python-format
 msgid "Warning!"
-msgstr ""
+msgstr "Внимание!"
 
 #. module: website_blog
 #: model:ir.actions.act_url,name:website_blog.action_open_website
@@ -978,13 +980,13 @@ msgstr ""
 #: field:blog.blog,website_message_ids:0
 #: field:blog.post,website_message_ids:0
 msgid "Website Messages"
-msgstr ""
+msgstr "Сообщения сайта"
 
 #. module: website_blog
 #: help:blog.blog,website_message_ids:0
 #: help:blog.post,website_message_ids:0
 msgid "Website communication history"
-msgstr ""
+msgstr "История переписки сайта"
 
 #. module: website_blog
 #: field:blog.blog,website_meta_description:0
