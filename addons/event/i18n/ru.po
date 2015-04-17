@@ -728,7 +728,7 @@ msgstr "Страна"
 #: field:event.registration,create_uid:0
 #: field:event.type,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: event
 #: field:event.confirm,create_date:0
@@ -736,7 +736,7 @@ msgstr ""
 #: field:event.registration,create_date:0
 #: field:event.type,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: event
 #: view:event.event:event.view_event_form
@@ -747,7 +747,7 @@ msgstr ""
 #: help:event.event,message_last_post:0
 #: help:event.registration,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: event
 #: field:event.type,default_registration_max:0
@@ -951,7 +951,7 @@ msgstr ""
 #: field:event.event,message_follower_ids:0
 #: field:event.registration,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Подписчики"
 
 #. module: event
 #: model:event.event,name:event.event_1
@@ -963,7 +963,7 @@ msgstr ""
 #: view:event.registration:event.view_registration_search
 #: view:report.event.registration:event.view_report_event_registration_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: event
 #: model:ir.module.category,description:event.module_category_event_management
@@ -977,6 +977,8 @@ msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
 msgstr ""
+"Содержит обзор чата (количество сообщений, ...). Это краткое изложение "
+"непосредственно в HTML формате для того, чтобы вставить в виды kanban."
 
 #. module: event
 #: field:event.confirm,id:0
@@ -985,13 +987,13 @@ msgstr ""
 #: field:event.type,id:0
 #: field:report.event.registration,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: event
 #: help:event.event,message_unread:0
 #: help:event.registration,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Если проверенные новые сообщения требуют вашего внимания."
 
 #. module: event
 #: help:event.event,state:0
@@ -1013,7 +1015,7 @@ msgstr ""
 #: field:event.event,message_is_follower:0
 #: field:event.registration,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Является подписчиком"
 
 #. module: event
 #: help:event.type,default_email_event:0
@@ -1043,7 +1045,7 @@ msgstr ""
 #: field:event.event,message_last_post:0
 #: field:event.registration,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: event
 #: field:event.confirm,write_uid:0
@@ -1051,7 +1053,7 @@ msgstr ""
 #: field:event.registration,write_uid:0
 #: field:event.type,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: event
 #: field:event.confirm,write_date:0
@@ -1059,7 +1061,7 @@ msgstr ""
 #: field:event.registration,write_date:0
 #: field:event.type,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: event
 #: field:event.event,address_id:0
@@ -1096,7 +1098,7 @@ msgstr "Сообщения"
 #: help:event.event,message_ids:0
 #: help:event.registration,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Сообщения и журнал обращений"
 
 #. module: event
 #: field:event.event,seats_min:0
@@ -1334,7 +1336,7 @@ msgstr ""
 #. module: event
 #: field:event.registration,origin:0
 msgid "Source Document"
-msgstr ""
+msgstr "Источник документа"
 
 #. module: event
 #: field:res.partner,speaker:0
@@ -1447,7 +1449,7 @@ msgstr ""
 #: view:event.registration:event.view_registration_search
 #: field:event.registration,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Непрочитанные сообщения"
 
 #. module: event
 #: view:event.event:event.view_event_kanban
