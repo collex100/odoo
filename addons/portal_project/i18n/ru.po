@@ -29,7 +29,7 @@ msgstr ""
 #. module: portal_project
 #: model:ir.model,name:portal_project.model_project_project
 msgid "Project"
-msgstr ""
+msgstr "Проект"
 
 #. module: portal_project
 #: model:ir.actions.act_window,name:portal_project.open_view_project
