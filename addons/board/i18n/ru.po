@@ -154,12 +154,12 @@ msgstr "Создать новую панель"
 #. module: board
 #: field:board.create,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: board
 #: field:board.create,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: board
 #. openerp-web
@@ -179,17 +179,17 @@ msgstr ""
 #: field:board.board,id:0
 #: field:board.create,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: board
 #: field:board.create,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: board
 #: field:board.create,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: board
 #: view:board.board:board.board_my_dash_view
