@@ -135,14 +135,14 @@ msgstr ""
 #: field:hr.attendance,create_uid:0
 #: field:hr.attendance.error,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: hr_attendance
 #: field:hr.action.reason,create_date:0
 #: field:hr.attendance,create_date:0
 #: field:hr.attendance.error,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: hr_attendance
 #: view:hr.attendance:hr_attendance.view_hr_attendance_filter
@@ -201,7 +201,7 @@ msgstr ""
 #. module: hr_attendance
 #: view:hr.attendance:hr_attendance.view_hr_attendance_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: hr_attendance
 #: view:hr.attendance:hr_attendance.view_hr_attendance_filter
@@ -214,7 +214,7 @@ msgstr "Поиск по посещаемости"
 #: field:hr.attendance.error,id:0
 #: field:report.hr_attendance.report_attendanceerrors,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr_attendance
 #: field:hr.employee,last_sign:0
@@ -226,14 +226,14 @@ msgstr ""
 #: field:hr.attendance,write_uid:0
 #: field:hr.attendance.error,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_attendance
 #: field:hr.action.reason,write_date:0
 #: field:hr.attendance,write_date:0
 #: field:hr.attendance.error,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_attendance
 #. openerp-web
