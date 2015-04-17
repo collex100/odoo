@@ -415,7 +415,7 @@ msgstr ""
 #: model:ir.filters,name:crm.filter_leads_salesperson
 #: model:ir.filters,name:crm.filter_opportunity_salesperson
 msgid "By Salespersons"
-msgstr ""
+msgstr "По продавцам"
 
 #. module: crm
 #: model:ir.model,name:crm.model_crm_lead_report
@@ -794,7 +794,7 @@ msgstr "Создать нового заказчика"
 #: field:crm.tracking.medium,create_uid:0
 #: field:crm.tracking.source,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: crm
 #: field:base.partner.merge.automatic.wizard,create_date:0
@@ -813,7 +813,7 @@ msgstr ""
 #: field:crm.tracking.medium,create_date:0
 #: field:crm.tracking.source,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: crm
 #: view:crm.phonecall:crm.view_crm_case_phonecalls_filter
@@ -888,7 +888,7 @@ msgstr "Дата"
 #: help:crm.lead,message_last_post:0
 #: help:crm.phonecall,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: crm
 #: field:crm.lead,day_open:0
@@ -1127,7 +1127,7 @@ msgstr ""
 #: view:crm.lead.report:crm.view_report_crm_lead_filter
 #: view:crm.opportunity.report:crm.view_report_crm_opportunity_filter
 msgid "Extended Filters"
-msgstr ""
+msgstr "Расширенные фильтры"
 
 #. module: crm
 #: view:crm.phonecall.report:crm.view_report_crm_phonecall_filter
@@ -1215,7 +1215,7 @@ msgstr "Глобальная копия"
 #: view:crm.phonecall:crm.view_crm_case_phonecalls_filter
 #: view:crm.phonecall.report:crm.view_report_crm_phonecall_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: crm
 #: field:base.partner.merge.automatic.wizard,number_group:0
@@ -1375,7 +1375,7 @@ msgstr ""
 #: field:crm.lead,message_last_post:0
 #: field:crm.phonecall,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: crm
 #: field:crm.lead,date_last_stage_update:0
@@ -1403,7 +1403,7 @@ msgstr ""
 #: field:crm.tracking.medium,write_uid:0
 #: field:crm.tracking.source,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: crm
 #: field:base.partner.merge.automatic.wizard,write_date:0
@@ -1423,7 +1423,7 @@ msgstr ""
 #: field:crm.tracking.medium,write_date:0
 #: field:crm.tracking.source,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: crm
 #: code:addons/crm/crm_lead.py:884
@@ -1901,7 +1901,7 @@ msgstr "Создать"
 #: view:crm.lead:crm.view_crm_case_opportunities_filter
 #: view:crm.phonecall:crm.view_crm_case_phonecalls_filter
 msgid "New Mail"
-msgstr ""
+msgstr "Новое письмо"
 
 #. module: crm
 #: model:crm.tracking.source,name:crm.crm_source_newsletter
