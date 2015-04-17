@@ -82,13 +82,13 @@ msgstr "Создать новую запись"
 #: field:fetchmail.config.settings,create_uid:0
 #: field:fetchmail.server,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: fetchmail
 #: field:fetchmail.config.settings,create_date:0
 #: field:fetchmail.server,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: fetchmail
 #: help:fetchmail.server,priority:0
@@ -120,7 +120,7 @@ msgstr "Имя хоста или IP сервера электронной поч
 #: field:fetchmail.config.settings,id:0
 #: field:fetchmail.server,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: fetchmail
 #: view:fetchmail.server:fetchmail.view_email_server_search
@@ -173,13 +173,13 @@ msgstr "Последняя дата получения"
 #: field:fetchmail.config.settings,write_uid:0
 #: field:fetchmail.server,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: fetchmail
 #: field:fetchmail.config.settings,write_date:0
 #: field:fetchmail.server,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: fetchmail
 #: selection:fetchmail.server,type:0
