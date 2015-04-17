@@ -50,12 +50,12 @@ msgstr "Настройка знаний"
 #. module: knowledge
 #: field:knowledge.config.settings,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: knowledge
 #: field:knowledge.config.settings,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: knowledge
 #: help:knowledge.config.settings,module_document:0
@@ -72,7 +72,7 @@ msgstr "Документы"
 #. module: knowledge
 #: field:knowledge.config.settings,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: knowledge
 #: model:ir.ui.menu,name:knowledge.menu_document
@@ -88,12 +88,12 @@ msgstr "Управление знаниями и документами"
 #. module: knowledge
 #: field:knowledge.config.settings,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: knowledge
 #: field:knowledge.config.settings,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: knowledge
 #: field:knowledge.config.settings,module_document:0
