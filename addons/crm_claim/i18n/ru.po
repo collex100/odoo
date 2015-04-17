@@ -249,12 +249,12 @@ msgstr "Дата создания"
 #: field:crm.claim,create_uid:0
 #: field:crm.claim.stage,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: crm_claim
 #: field:crm.claim.stage,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: crm_claim
 #: field:crm.claim,create_date:0
@@ -269,7 +269,7 @@ msgstr "Дата закрытия"
 #. module: crm_claim
 #: help:crm.claim,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: crm_claim
 #: view:crm.claim:crm_claim.crm_case_claims_form_view
@@ -327,7 +327,7 @@ msgstr "Подписчики"
 #: view:crm.claim:crm_claim.view_crm_case_claims_filter
 #: view:crm.claim.report:crm_claim.view_report_crm_claim_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,help:crm_claim.action_report_crm_claim
@@ -387,18 +387,18 @@ msgstr "Подписан"
 #. module: crm_claim
 #: field:crm.claim,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: crm_claim
 #: field:crm.claim,write_uid:0
 #: field:crm.claim.stage,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: crm_claim
 #: field:crm.claim.stage,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: crm_claim
 #: help:crm.claim.stage,section_ids:0
@@ -695,12 +695,12 @@ msgstr "Адреса наблюдателей"
 #. module: crm_claim
 #: field:crm.claim,website_message_ids:0
 msgid "Website Messages"
-msgstr ""
+msgstr "Сообщения сайта"
 
 #. module: crm_claim
 #: help:crm.claim,website_message_ids:0
 msgid "Website communication history"
-msgstr ""
+msgstr "История переписки сайта"
 
 #. module: crm_claim
 #: model:ir.filters,name:crm_claim.filter_report_crm_claim_workload
