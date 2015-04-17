@@ -46,12 +46,12 @@ msgstr ""
 #. module: mrp_byproduct
 #: field:mrp.subproduct,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: mrp_byproduct
 #: field:mrp.subproduct,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: mrp_byproduct
 #: help:mrp.subproduct,subproduct_type:0
@@ -73,17 +73,17 @@ msgstr "Фиксированный"
 #. module: mrp_byproduct
 #: field:mrp.subproduct,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: mrp_byproduct
 #: field:mrp.subproduct,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: mrp_byproduct
 #: field:mrp.subproduct,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: mrp_byproduct
 #: model:ir.model,name:mrp_byproduct.model_mrp_production
