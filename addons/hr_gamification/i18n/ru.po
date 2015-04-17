@@ -61,7 +61,7 @@ msgstr ""
 #. module: hr_gamification
 #: view:gamification.badge.user.wizard:hr_gamification.view_badge_wizard_reward
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
 #. module: hr_gamification
 #: model:ir.actions.act_window,name:hr_gamification.challenge_list_action2
@@ -163,7 +163,7 @@ msgstr ""
 #: code:addons/hr_gamification/wizard/grant_badge.py:48
 #, python-format
 msgid "Warning!"
-msgstr ""
+msgstr "Внимание!"
 
 #. module: hr_gamification
 #: view:gamification.badge.user.wizard:hr_gamification.view_badge_wizard_reward
