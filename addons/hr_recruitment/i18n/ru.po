@@ -523,7 +523,7 @@ msgstr ""
 #: field:hr.recruitment.source,create_uid:0
 #: field:hr.recruitment.stage,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: hr_recruitment
 #: field:hr.applicant_category,create_date:0
@@ -532,7 +532,7 @@ msgstr ""
 #: field:hr.recruitment.source,create_date:0
 #: field:hr.recruitment.stage,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: hr_recruitment
 #: view:hr.applicant:hr_recruitment.view_crm_case_jobs_filter
@@ -548,7 +548,7 @@ msgstr ""
 #. module: hr_recruitment
 #: help:hr.applicant,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: hr_recruitment
 #: view:hr.applicant:hr_recruitment.crm_case_form_view_job
@@ -713,7 +713,7 @@ msgstr ""
 #: code:addons/hr_recruitment/wizard/hr_recruitment_create_partner_job.py:56
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: hr_recruitment
 #: selection:hr.applicant,priority:0
@@ -739,7 +739,7 @@ msgstr ""
 #. module: hr_recruitment
 #: view:hr.recruitment.report:hr_recruitment.view_hr_recruitment_report_search
 msgid "Extended Filters"
-msgstr ""
+msgstr "Расширенные фильтры"
 
 #. module: hr_recruitment
 #: view:hr.applicant:hr_recruitment.crm_case_form_view_job
@@ -774,7 +774,7 @@ msgstr ""
 #. module: hr_recruitment
 #: field:hr.applicant,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Подписчики"
 
 #. module: hr_recruitment
 #: model:survey.label,value:hr_recruitment.rrow_2_1_8
@@ -831,7 +831,7 @@ msgstr ""
 #: view:hr.applicant:hr_recruitment.view_crm_case_jobs_filter
 #: view:hr.recruitment.report:hr_recruitment.view_hr_recruitment_report_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: hr_recruitment
 #: view:hr.job:hr_recruitment.view_hr_job_kanban
@@ -844,6 +844,8 @@ msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
 msgstr ""
+"Содержит обзор чата (количество сообщений, ...). Это краткое изложение "
+"непосредственно в HTML формате для того, чтобы вставить в виды kanban."
 
 #. module: hr_recruitment
 #: field:hr.applicant,id:0
@@ -854,7 +856,7 @@ msgstr ""
 #: field:hr.recruitment.source,id:0
 #: field:hr.recruitment.stage,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr_recruitment
 #: model:hr.applicant_category,name:hr_recruitment.tag_applicant_it
@@ -864,7 +866,7 @@ msgstr ""
 #. module: hr_recruitment
 #: help:hr.applicant,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Если проверенные новые сообщения требуют вашего внимания."
 
 #. module: hr_recruitment
 #: model:survey.question,comments_message:hr_recruitment.recruitment_1_1
@@ -921,7 +923,7 @@ msgstr "Форма интервью"
 #. module: hr_recruitment
 #: field:hr.applicant,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Является подписчиком"
 
 #. module: hr_recruitment
 #: view:hr.applicant:hr_recruitment.crm_case_form_view_job
@@ -962,7 +964,7 @@ msgstr ""
 #. module: hr_recruitment
 #: field:hr.applicant,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: hr_recruitment
 #: field:hr.applicant,last_stage_id:0
@@ -985,7 +987,7 @@ msgstr ""
 #: field:hr.recruitment.source,write_uid:0
 #: field:hr.recruitment.stage,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_recruitment
 #: field:hr.applicant_category,write_date:0
@@ -994,7 +996,7 @@ msgstr ""
 #: field:hr.recruitment.source,write_date:0
 #: field:hr.recruitment.stage,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_recruitment
 #: view:hr.job:hr_recruitment.view_hr_job_kanban
@@ -1048,7 +1050,7 @@ msgstr "Сообщения"
 #. module: hr_recruitment
 #: help:hr.applicant,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Сообщения и журнал обращений"
 
 #. module: hr_recruitment
 #: field:hr.applicant,partner_mobile:0
@@ -1096,7 +1098,7 @@ msgstr ""
 #. module: hr_recruitment
 #: view:hr.applicant:hr_recruitment.view_crm_case_jobs_filter
 msgid "New Mail"
-msgstr ""
+msgstr "Новое письмо"
 
 #. module: hr_recruitment
 #: code:addons/hr_recruitment/hr_recruitment.py:421
@@ -1174,7 +1176,7 @@ msgstr "Телефон"
 #. module: hr_recruitment
 #: view:hr.applicant:hr_recruitment.crm_case_form_view_job
 msgid "Print"
-msgstr ""
+msgstr "Печать"
 
 #. module: hr_recruitment
 #: view:hr.job:hr_recruitment.hr_job_survey
@@ -1321,7 +1323,7 @@ msgstr ""
 #. module: hr_recruitment
 #: model:hr.applicant_category,name:hr_recruitment.tag_applicant_sales
 msgid "Sales"
-msgstr ""
+msgstr "Продажи"
 
 #. module: hr_recruitment
 #: view:hr.applicant:hr_recruitment.crm_case_form_view_job
@@ -1465,7 +1467,7 @@ msgstr ""
 #. module: hr_recruitment
 #: field:hr.applicant,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Резюме"
 
 #. module: hr_recruitment
 #: field:hr.applicant,survey:0
@@ -1516,7 +1518,7 @@ msgstr "Эти люди получат эл. письма."
 #. module: hr_recruitment
 #: view:hr.recruitment.report:hr_recruitment.view_hr_recruitment_report_search
 msgid "This Year"
-msgstr ""
+msgstr "В этом году"
 
 #. module: hr_recruitment
 #: model:survey.question,constr_error_msg:hr_recruitment.recruitment_1_1
@@ -1588,12 +1590,12 @@ msgstr ""
 #. module: hr_recruitment
 #: field:hr.applicant,website_message_ids:0
 msgid "Website Messages"
-msgstr ""
+msgstr "Сообщения сайта"
 
 #. module: hr_recruitment
 #: help:hr.applicant,website_message_ids:0
 msgid "Website communication history"
-msgstr ""
+msgstr "История переписки сайта"
 
 #. module: hr_recruitment
 #: model:survey.question,question:hr_recruitment.recruitment_1_3
