@@ -166,19 +166,19 @@ msgstr ""
 #. module: report
 #: model:ir.model,name:report.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "Компании"
 
 #. module: report
 #: field:report,create_uid:0
 #: field:report.paperformat,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: report
 #: field:report,create_date:0
 #: field:report.paperformat,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: report
 #: selection:report.paperformat,format:0
@@ -240,7 +240,7 @@ msgstr ""
 #: field:report.abstract_report,id:0
 #: field:report.paperformat,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: report
 #: selection:report.paperformat,orientation:0
@@ -251,13 +251,13 @@ msgstr ""
 #: field:report,write_uid:0
 #: field:report.paperformat,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: report
 #: field:report,write_date:0
 #: field:report.paperformat,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: report
 #: selection:report.paperformat,format:0
