@@ -63,14 +63,14 @@ msgstr "Цветовая палитра"
 #: field:note.stage,create_uid:0
 #: field:note.tag,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: note
 #: field:note.note,create_date:0
 #: field:note.stage,create_date:0
 #: field:note.tag,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: note
 #: field:note.note,date_done:0
@@ -80,7 +80,7 @@ msgstr "Дата выполнения"
 #. module: note
 #: help:note.note,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: note
 #: view:note.note:note.view_note_note_kanban
@@ -100,7 +100,7 @@ msgstr "Подписчики"
 #. module: note
 #: view:note.note:note.view_note_note_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: note
 #: help:note.note,message_summary:0
@@ -116,7 +116,7 @@ msgstr ""
 #: field:note.stage,id:0
 #: field:note.tag,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: note
 #: help:note.note,message_unread:0
@@ -131,21 +131,21 @@ msgstr "Подписан"
 #. module: note
 #: field:note.note,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: note
 #: field:note.note,write_uid:0
 #: field:note.stage,write_uid:0
 #: field:note.tag,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: note
 #: field:note.note,write_date:0
 #: field:note.stage,write_date:0
 #: field:note.tag,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: note
 #: model:note.stage,name:note.demo_note_stage_03
