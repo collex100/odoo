@@ -409,7 +409,7 @@ msgstr "Дата создания"
 #: field:survey.user_input,create_uid:0
 #: field:survey.user_input_line,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: survey
 #: field:survey.label,create_date:0
@@ -421,12 +421,12 @@ msgstr ""
 #: field:survey.user_input,create_date:0
 #: field:survey.user_input_line,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: survey
 #: field:survey.user_input,date_create:0
 msgid "Creation Date"
-msgstr ""
+msgstr "Дата создания"
 
 #. module: survey
 #: help:survey.mail.compose.message,starred:0
@@ -448,7 +448,7 @@ msgstr ""
 #: field:survey.mail.compose.message,date:0
 #: selection:survey.user_input_line,answer_type:0
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 #. module: survey
 #: selection:survey.question,type:0
@@ -468,7 +468,7 @@ msgstr ""
 #. module: survey
 #: help:survey.survey,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: survey
 #: field:survey.user_input,deadline:0
@@ -591,7 +591,7 @@ msgstr ""
 #: code:addons/survey/survey.py:439
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: survey
 #: field:survey.mail.compose.message,partner_ids:0
@@ -626,7 +626,7 @@ msgstr ""
 #. module: survey
 #: field:survey.survey,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Подписчики"
 
 #. module: survey
 #: view:survey.question:survey.survey_question_form
@@ -666,7 +666,7 @@ msgstr ""
 #: view:survey.user_input:survey.survey_user_input_search
 #: view:survey.user_input_line:survey.survey_response_line_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: survey
 #: help:survey.survey,message_summary:0
@@ -674,6 +674,8 @@ msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
 msgstr ""
+"Содержит обзор чата (количество сообщений, ...). Это краткое изложение "
+"непосредственно в HTML формате для того, чтобы вставить в виды kanban."
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
@@ -745,7 +747,7 @@ msgstr ""
 #: field:survey.user_input,id:0
 #: field:survey.user_input_line,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: survey
 #: field:survey.user_input,token:0
@@ -755,7 +757,7 @@ msgstr ""
 #. module: survey
 #: help:survey.survey,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Если проверенные новые сообщения требуют вашего внимания."
 
 #. module: survey
 #: help:survey.survey,users_can_go_back:0
@@ -814,7 +816,7 @@ msgstr ""
 #. module: survey
 #: field:survey.survey,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Является подписчиком"
 
 #. module: survey
 #: field:survey.survey,designed:0
@@ -865,7 +867,7 @@ msgstr ""
 #. module: survey
 #: field:survey.survey,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: survey
 #: field:survey.label,write_uid:0
@@ -877,7 +879,7 @@ msgstr ""
 #: field:survey.user_input,write_uid:0
 #: field:survey.user_input_line,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: survey
 #: field:survey.label,write_date:0
@@ -889,7 +891,7 @@ msgstr ""
 #: field:survey.user_input,write_date:0
 #: field:survey.user_input_line,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: survey
 #: field:survey.user_input,last_displayed_page_id:0
@@ -1008,12 +1010,12 @@ msgstr ""
 #. module: survey
 #: field:survey.survey,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Сообщения"
 
 #. module: survey
 #: help:survey.survey,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Сообщения и журнал обращений"
 
 #. module: survey
 #: view:website:survey.result_number
@@ -1618,7 +1620,7 @@ msgstr ""
 #. module: survey
 #: field:survey.survey,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Резюме"
 
 #. module: survey
 #: model:ir.model,name:survey.model_survey_survey
@@ -1986,7 +1988,7 @@ msgstr ""
 #. module: survey
 #: field:survey.survey,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Непрочитанные сообщения"
 
 #. module: survey
 #: field:survey.mail.compose.message,use_active_domain:0
@@ -2094,7 +2096,7 @@ msgstr ""
 #: code:addons/survey/wizard/survey_email_compose_message.py:213
 #, python-format
 msgid "Warning!"
-msgstr ""
+msgstr "Внимание!"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_7
