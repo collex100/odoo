@@ -140,13 +140,13 @@ msgstr "Скопированы права совместного доступа"
 #: field:share.wizard,create_uid:0
 #: field:share.wizard.result.line,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: share
 #: field:share.wizard,create_date:0
 #: field:share.wizard.result.line,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: share
 #: field:share.wizard,view_type:0
@@ -264,7 +264,7 @@ msgstr ""
 #: field:share.wizard,id:0
 #: field:share.wizard.result.line,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: share
 #: view:share.wizard:share.share_step1_form
@@ -306,13 +306,13 @@ msgstr "Пригласить пользователей в запись OpenSoci
 #: field:share.wizard,write_uid:0
 #: field:share.wizard.result.line,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: share
 #: field:share.wizard,write_date:0
 #: field:share.wizard.result.line,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: share
 #: field:share.wizard.result.line,login:0
