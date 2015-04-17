@@ -71,7 +71,7 @@ msgstr ""
 #: field:l10n_br_account.cst,name:0
 #: field:l10n_br_account.cst.template,name:0
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #. module: l10n_br
 #: constraint:account.tax.code:0
