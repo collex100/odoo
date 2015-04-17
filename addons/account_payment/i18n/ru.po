@@ -191,7 +191,7 @@ msgstr "Создано"
 #: field:payment.order,create_uid:0
 #: field:payment.order.create,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: account_payment
 #: field:account.payment.make.payment,create_date:0
@@ -200,7 +200,7 @@ msgstr ""
 #: field:payment.order,create_date:0
 #: field:payment.order.create,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: account_payment
 #: field:payment.order,date_created:0
@@ -326,7 +326,7 @@ msgstr "Общая информация"
 #: view:payment.mode:account_payment.view_payment_mode_search
 #: view:payment.order:account_payment.view_payment_order_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: account_payment
 #: field:account.payment.make.payment,id:0
@@ -337,7 +337,7 @@ msgstr ""
 #: field:payment.order.create,id:0
 #: field:report.account_payment.report_paymentorder,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: account_payment
 #: help:payment.line,date:0
@@ -385,7 +385,7 @@ msgstr "Ссылка на счет"
 #. module: account_payment
 #: view:payment.order:account_payment.view_payment_order_form
 msgid "Invoices"
-msgstr ""
+msgstr "Счета"
 
 #. module: account_payment
 #: view:payment.mode:account_payment.view_payment_mode_search
@@ -406,7 +406,7 @@ msgstr "Элементы журнала"
 #: field:payment.order,write_uid:0
 #: field:payment.order.create,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: account_payment
 #: field:account.payment.make.payment,write_date:0
@@ -416,7 +416,7 @@ msgstr ""
 #: field:payment.order,write_date:0
 #: field:payment.order.create,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: account_payment
 #: view:account.payment.make.payment:account_payment.account_payment_make_payment_view
