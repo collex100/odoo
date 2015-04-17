@@ -446,7 +446,7 @@ msgstr ""
 #: view:website.config.settings:website.view_website_config_settings
 #, python-format
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
 #. module: website
 #: view:website:website.themes
@@ -584,12 +584,12 @@ msgstr ""
 #. module: website
 #: model:ir.model,name:website.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "Компании"
 
 #. module: website
 #: field:website,company_id:0
 msgid "Company"
-msgstr ""
+msgstr "Компания"
 
 #. module: website
 #: view:website:website.layout
@@ -712,7 +712,7 @@ msgstr ""
 #: field:website.menu,create_uid:0
 #: field:website.seo.metadata,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: website
 #: field:website,create_date:0
@@ -721,7 +721,7 @@ msgstr ""
 #: field:website.menu,create_date:0
 #: field:website.seo.metadata,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: website
 #: view:website:website.themes
@@ -840,7 +840,7 @@ msgstr ""
 #: code:addons/website/static/src/xml/website.seo.xml:49
 #, python-format
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #. module: website
 #. openerp-web
@@ -1292,7 +1292,7 @@ msgstr ""
 #: field:website.qweb.field.text,id:0
 #: field:website.seo.metadata,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: website
 #: help:ir.actions.server,xml_id:0
@@ -1464,7 +1464,7 @@ msgstr ""
 #: field:website.menu,write_uid:0
 #: field:website.seo.metadata,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: website
 #: field:website,write_date:0
@@ -1473,7 +1473,7 @@ msgstr ""
 #: field:website.menu,write_date:0
 #: field:website.seo.metadata,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: website
 #. openerp-web
@@ -1864,7 +1864,7 @@ msgstr ""
 #. module: website
 #: model:ir.model,name:website.model_res_partner
 msgid "Partner"
-msgstr ""
+msgstr "Партнер"
 
 #. module: website
 #: view:website:website.template_partner_post
@@ -2209,7 +2209,7 @@ msgstr ""
 #. module: website
 #: field:website.menu,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Последовательность"
 
 #. module: website
 #. openerp-web
