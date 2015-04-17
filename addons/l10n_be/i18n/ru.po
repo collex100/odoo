@@ -114,7 +114,7 @@ msgstr ""
 #: view:partner.vat.intra:0
 #: field:partner.vat.intra,tax_code_id:0
 msgid "Company"
-msgstr ""
+msgstr "Компания"
 
 #. module: l10n_be
 #: model:account.financial.report,name:l10n_be.account_financial_report_immobilisationsincorporelles1
@@ -189,7 +189,7 @@ msgstr ""
 #: code:addons/l10n_be/wizard/l10n_be_vat_intra.py:116
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: l10n_be
 #: code:addons/l10n_be/wizard/l10n_be_account_vat_declaration.py:112
@@ -813,7 +813,7 @@ msgstr ""
 #. module: l10n_be
 #: view:partner.vat.list:0
 msgid "Print"
-msgstr ""
+msgstr "Печать"
 
 #. module: l10n_be
 #: model:account.financial.report,name:l10n_be.account_financial_report_fournisseurs4
