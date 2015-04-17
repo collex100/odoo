@@ -46,7 +46,7 @@ msgstr "Счёт аналитики"
 #: code:addons/hr_payroll_account/hr_payroll_account.py:166
 #, python-format
 msgid "Configuration Error!"
-msgstr ""
+msgstr "Ошибка настроек!"
 
 #. module: hr_payroll_account
 #: model:ir.model,name:hr_payroll_account.model_hr_contract
