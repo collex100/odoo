@@ -186,7 +186,7 @@ msgstr "Отмена"
 #: selection:hr.employee,current_leave_state:0
 #: selection:hr.holidays,state:0
 msgid "Cancelled"
-msgstr ""
+msgstr "Отменено"
 
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.view_hr_holidays_filter
@@ -238,7 +238,7 @@ msgstr "Подтверждено"
 #: field:hr.holidays.summary.dept,create_uid:0
 #: field:hr.holidays.summary.employee,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: hr_holidays
 #: field:hr.holidays,create_date:0
@@ -246,7 +246,7 @@ msgstr ""
 #: field:hr.holidays.summary.dept,create_date:0
 #: field:hr.holidays.summary.employee,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: hr_holidays
 #: field:hr.employee,current_leave_state:0
@@ -261,7 +261,7 @@ msgstr ""
 #. module: hr_holidays
 #: help:hr.holidays,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: hr_holidays
 #: field:hr.holidays,department_id:0
@@ -317,7 +317,7 @@ msgstr ""
 #: code:addons/hr_holidays/wizard/hr_holidays_summary_department.py:44
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.view_hr_holidays_filter
@@ -334,7 +334,7 @@ msgstr "Первое утверждение"
 #. module: hr_holidays
 #: field:hr.holidays,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Подписчики"
 
 #. module: hr_holidays
 #: field:hr.holidays.summary.dept,date_from:0
@@ -350,7 +350,7 @@ msgstr ""
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.view_hr_holidays_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: hr_holidays
 #: model:ir.model,name:hr_holidays.model_hr_holidays_summary_dept
@@ -368,6 +368,8 @@ msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
 msgstr ""
+"Содержит обзор чата (количество сообщений, ...). Это краткое изложение "
+"непосредственно в HTML формате для того, чтобы вставить в виды kanban."
 
 #. module: hr_holidays
 #: field:hr.holidays,id:0
@@ -376,12 +378,12 @@ msgstr ""
 #: field:hr.holidays.summary.dept,id:0
 #: field:hr.holidays.summary.employee,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr_holidays
 #: help:hr.holidays,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Если проверенные новые сообщения требуют вашего внимания."
 
 #. module: hr_holidays
 #: help:hr.holidays.status,active:0
@@ -401,7 +403,7 @@ msgstr ""
 #. module: hr_holidays
 #: field:hr.holidays,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Является подписчиком"
 
 #. module: hr_holidays
 #: selection:hr.holidays.status,color_name:0
@@ -411,7 +413,7 @@ msgstr "Слоновой кости"
 #. module: hr_holidays
 #: field:hr.holidays,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: hr_holidays
 #: field:hr.holidays,write_uid:0
@@ -419,7 +421,7 @@ msgstr ""
 #: field:hr.holidays.summary.dept,write_uid:0
 #: field:hr.holidays.summary.employee,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_holidays
 #: field:hr.holidays,write_date:0
@@ -427,7 +429,7 @@ msgstr ""
 #: field:hr.holidays.summary.dept,write_date:0
 #: field:hr.holidays.summary.employee,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_holidays
 #: selection:hr.holidays.status,color_name:0
@@ -630,12 +632,12 @@ msgstr ""
 #. module: hr_holidays
 #: field:hr.holidays,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Сообщения"
 
 #. module: hr_holidays
 #: help:hr.holidays,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Сообщения и журнал обращений"
 
 #. module: hr_holidays
 #: view:hr.holidays.status:hr_holidays.edit_holiday_status_form
@@ -820,7 +822,7 @@ msgstr ""
 #. module: hr_holidays
 #: field:hr.holidays,state:0
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.allocation_company_new
@@ -835,7 +837,7 @@ msgstr ""
 #. module: hr_holidays
 #: field:hr.holidays,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Резюме"
 
 #. module: hr_holidays
 #: sql_constraint:hr.holidays:0
@@ -978,7 +980,7 @@ msgstr ""
 #. module: hr_holidays
 #: field:hr.holidays,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Непрочитанные сообщения"
 
 #. module: hr_holidays
 #: field:hr.holidays,user_id:0
@@ -1031,7 +1033,7 @@ msgstr "Ожидает второго подтверждения"
 #: code:addons/hr_holidays/hr_holidays.py:509
 #, python-format
 msgid "Warning!"
-msgstr ""
+msgstr "Внимание!"
 
 #. module: hr_holidays
 #: selection:hr.holidays.status,color_name:0
