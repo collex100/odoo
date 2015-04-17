@@ -30,7 +30,7 @@ msgstr ""
 #: view:account.bilan.report:0
 #: view:account.cdr.report:0
 msgid "Print"
-msgstr ""
+msgstr "Печать"
 
 #. module: l10n_fr
 #: field:l10n.fr.report,line_ids:0
@@ -98,7 +98,7 @@ msgstr ""
 #. module: l10n_fr
 #: model:ir.model,name:l10n_fr.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "Компании"
 
 #. module: l10n_fr
 #: sql_constraint:l10n.fr.report:0
