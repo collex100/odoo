@@ -2090,7 +2090,7 @@ msgstr ""
 #. module: account
 #: model:ir.filters,name:account.filter_invoice_product
 msgid "By Product"
-msgstr ""
+msgstr "Товаром"
 
 #. module: account
 #: model:ir.filters,name:account.filter_invoice_product_category
@@ -2105,7 +2105,7 @@ msgstr ""
 #. module: account
 #: model:ir.filters,name:account.filter_invoice_salespersons
 msgid "By Salespersons"
-msgstr ""
+msgstr "По продавцам"
 
 #. module: account
 #: help:account.fiscal.position,active:0
@@ -3269,7 +3269,7 @@ msgstr "Создать проводки"
 #: field:validate.account.move.lines,create_uid:0
 #: field:wizard.multi.charts.accounts,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: account
 #: field:account.account,create_date:0
@@ -3365,7 +3365,7 @@ msgstr ""
 #: field:validate.account.move.lines,create_date:0
 #: field:wizard.multi.charts.accounts,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: account
 #: help:account.addtmpl.wizard,cparent_id:0
@@ -3646,7 +3646,7 @@ msgstr "Дата дня"
 #: help:account.bank.statement,message_last_post:0
 #: help:account.invoice,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: account
 #: help:res.partner,last_reconciliation_date:0
@@ -4846,6 +4846,10 @@ msgid ""
 "customer. The tool search can also be used to personalise your Invoices "
 "reports and so, match this analysis to your needs."
 msgstr ""
+"Из этого отчета вы можете получить обзор суммы, выставленной в счете вашему "
+"клиенту. Можно также использовать инструмент поиска, чтобы персонализировать "
+"ваши отчеты по выставленным счетам и таким образом сопоставить этот анализ "
+"согласно вашим потребностям."
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_analytic_entries_report
@@ -5065,7 +5069,7 @@ msgstr "Молодец!"
 #: view:account.treasury.report:account.view_account_treasury_report_search
 #: view:analytic.entries.report:account.view_analytic_entries_report_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: account
 #: field:account.journal,group_invoice_lines:0
@@ -5219,7 +5223,7 @@ msgstr ""
 #: field:validate.account.move.lines,id:0
 #: field:wizard.multi.charts.accounts,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: account
 #: field:account.journal.period,icon:0
@@ -6235,7 +6239,7 @@ msgstr "Последнее конечное сальдо"
 #: field:account.bank.statement,message_last_post:0
 #: field:account.invoice,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: account
 #: field:account.account,write_uid:0
@@ -6332,7 +6336,7 @@ msgstr ""
 #: field:validate.account.move.lines,write_uid:0
 #: field:wizard.multi.charts.accounts,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: account
 #: field:account.account,write_date:0
@@ -6429,7 +6433,7 @@ msgstr ""
 #: field:validate.account.move.lines,write_date:0
 #: field:wizard.multi.charts.accounts,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: account
 #: field:res.partner,last_reconciliation_date:0
@@ -7596,7 +7600,7 @@ msgstr "Позиция условий оплаты"
 #. module: account
 #: view:website:account.report_invoice_document
 msgid "Payment Term:"
-msgstr ""
+msgstr "Условия оплаты:"
 
 #. module: account
 #: field:account.invoice,payment_term:0
@@ -8445,7 +8449,7 @@ msgstr "Ссылка на документ, породивший этот сче
 #. module: account
 #: field:account.invoice,name:0
 msgid "Reference/Description"
-msgstr ""
+msgstr "Ссылка/Описание"
 
 #. module: account
 #: view:account.invoice:account.invoice_form
@@ -8769,7 +8773,7 @@ msgstr "Налог с продаж (%)"
 #. module: account
 #: view:account.invoice.report:account.view_account_invoice_report_search
 msgid "Sales Team"
-msgstr ""
+msgstr "Отдел продаж"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_report_account_sales_tree_all
@@ -10806,7 +10810,7 @@ msgstr "Закрыть"
 #. module: account
 #: view:account.invoice.report:account.view_account_invoice_report_search
 msgid "To Invoice"
-msgstr ""
+msgstr "Выписать счет"
 
 #. module: account
 #: view:account.move:account.view_account_move_filter
@@ -10902,7 +10906,7 @@ msgstr "Всего без налога"
 #. module: account
 #: view:website:account.report_invoice_document
 msgid "Total Without Taxes"
-msgstr ""
+msgstr "Всего без налогов"
 
 #. module: account
 #: help:account.account,adjusted_balance:0
