@@ -137,13 +137,13 @@ msgstr ""
 #. module: email_template
 #: field:email.template,create_uid:0 field:email_template.preview,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: email_template
 #: field:email.template,create_date:0
 #: field:email_template.preview,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: email_template
 #: field:email.template,null_value:0 field:email_template.preview,null_value:0
@@ -248,7 +248,7 @@ msgstr "Группировать по..."
 #. module: email_template
 #: field:email.template,id:0 field:email_template.preview,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: email_template
 #: help:email.template,user_signature:0
@@ -276,12 +276,12 @@ msgstr "Язык"
 #. module: email_template
 #: field:email.template,write_uid:0 field:email_template.preview,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: email_template
 #: field:email.template,write_date:0 field:email_template.preview,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: email_template
 #: view:email.template:email_template.view_email_template_search
@@ -598,7 +598,7 @@ msgstr "Предупреждение"
 #: code:addons/email_template/email_template.py:551
 #, python-format
 msgid "Warning!"
-msgstr ""
+msgstr "Внимание!"
 
 #. module: email_template
 #: help:email.template,sub_model_object_field:0
@@ -1117,7 +1117,7 @@ msgstr "Дата"
 #: help:mail.group,message_last_post:0 help:mail.thread,message_last_post:0
 #: help:res.partner,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: mail
 #: field:mail.message.subtype,default:0
@@ -1392,7 +1392,7 @@ msgstr "Группа"
 #: view:mail.mail:mail.view_mail_search
 #: view:mail.message:mail.view_message_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: mail
 #: view:mail.group:mail.view_group_form
@@ -1556,7 +1556,7 @@ msgstr "Присоединиться к группе"
 #: field:mail.group,message_last_post:0 field:mail.thread,message_last_post:0
 #: field:res.partner,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: mail
 #: help:mail.wizard.invite,partner_ids:0
@@ -2183,7 +2183,7 @@ msgstr ""
 #. module: mail
 #: field:mail.message.subtype,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Последовательность"
 
 #. module: mail
 #. openerp-web
