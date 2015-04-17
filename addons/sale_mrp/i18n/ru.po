@@ -50,12 +50,12 @@ msgstr "Ссылка продажи"
 #. module: sale_mrp
 #: model:ir.model,name:sale_mrp.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "Заказ на продажу"
 
 #. module: sale_mrp
 #: model:ir.model,name:sale_mrp.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "Позиция заказа на продажу"
 
 #. module: sale_mrp
 #: model:ir.model,name:sale_mrp.model_stock_move
