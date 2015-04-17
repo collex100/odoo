@@ -21,7 +21,7 @@ msgstr ""
 #: code:addons/stock_invoice_directly/stock_invoice_directly.py:42
 #, python-format
 msgid "Create Invoice"
-msgstr ""
+msgstr "Создать счёт"
 
 #. module: stock_invoice_directly
 #: model:ir.model,name:stock_invoice_directly.model_stock_picking
