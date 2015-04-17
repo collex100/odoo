@@ -156,7 +156,7 @@ msgstr "C5E 24 163 x 229 мм"
 #. module: report_webkit
 #: view:report.webkit.actions:report_webkit.view_report_webkit_actions
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
 #. module: report_webkit
 #: help:report.webkit.actions,print_button:0
@@ -208,14 +208,14 @@ msgstr ""
 #: field:ir.header_webkit,create_uid:0
 #: field:report.webkit.actions,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: report_webkit
 #: field:ir.header_img,create_date:0
 #: field:ir.header_webkit,create_date:0
 #: field:report.webkit.actions,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: report_webkit
 #: selection:ir.header_webkit,format:0
@@ -263,7 +263,7 @@ msgstr ""
 #: field:ir.header_webkit,id:0
 #: field:report.webkit.actions,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: report_webkit
 #: field:ir.header_img,img:0
@@ -285,14 +285,14 @@ msgstr "Альбом"
 #: field:ir.header_webkit,write_uid:0
 #: field:report.webkit.actions,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: report_webkit
 #: field:ir.header_img,write_date:0
 #: field:ir.header_webkit,write_date:0
 #: field:report.webkit.actions,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: report_webkit
 #: selection:ir.header_webkit,format:0
