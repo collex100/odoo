@@ -259,7 +259,7 @@ msgstr "Страна"
 #: field:marketing.campaign.transition,create_uid:0
 #: field:marketing.campaign.workitem,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: marketing_campaign
 #: field:marketing.campaign,create_date:0
@@ -268,7 +268,7 @@ msgstr ""
 #: field:marketing.campaign.transition,create_date:0
 #: field:marketing.campaign.workitem,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: marketing_campaign
 #: selection:marketing.campaign.activity,type:0
@@ -363,7 +363,7 @@ msgstr "Шаблон письма"
 #. module: marketing_campaign
 #: model:ir.model,name:marketing_campaign.model_email_template
 msgid "Email Templates"
-msgstr ""
+msgstr "Шаблоны писем"
 
 #. module: marketing_campaign
 #: field:marketing.campaign.segment,date_done:0
@@ -449,7 +449,7 @@ msgstr ""
 #: view:marketing.campaign.segment:marketing_campaign.view_marketing_campaign_segment_search
 #: view:marketing.campaign.workitem:marketing_campaign.view_marketing_campaign_workitem_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: marketing_campaign
 #: model:email.template,body_html:marketing_campaign.email_template_1
@@ -487,7 +487,7 @@ msgstr ""
 #: field:marketing.campaign.transition,id:0
 #: field:marketing.campaign.workitem,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: marketing_campaign
 #: help:marketing.campaign.workitem,date:0
@@ -554,7 +554,7 @@ msgstr "Последняя синхронизация"
 #: field:marketing.campaign.transition,write_uid:0
 #: field:marketing.campaign.workitem,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: marketing_campaign
 #: field:marketing.campaign,write_date:0
@@ -563,7 +563,7 @@ msgstr ""
 #: field:marketing.campaign.transition,write_date:0
 #: field:marketing.campaign.workitem,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: marketing_campaign
 #: field:marketing.campaign.segment,date_run:0
@@ -921,7 +921,7 @@ msgstr ""
 #: view:marketing.campaign.workitem:marketing_campaign.view_marketing_campaign_workitem_search
 #: field:marketing.campaign.workitem,state:0
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 #. module: marketing_campaign
 #: view:marketing.campaign.segment:marketing_campaign.view_marketing_campaign_segment_search
