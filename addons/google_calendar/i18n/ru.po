@@ -202,7 +202,7 @@ msgstr ""
 #. module: google_calendar
 #: field:google.calendar,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: google_calendar
 #. openerp-web
