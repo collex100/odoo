@@ -827,7 +827,7 @@ msgstr "Контакт"
 #: field:calendar.event,create_uid:0
 #: field:calendar.event.type,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: calendar
 #: field:calendar.alarm,create_date:0
@@ -836,7 +836,7 @@ msgstr ""
 #: field:calendar.event,create_date:0
 #: field:calendar.event.type,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: calendar
 #: model:calendar.event.type,name:calendar.categ_meet1
@@ -858,7 +858,7 @@ msgstr "День месяца"
 #. module: calendar
 #: help:calendar.event,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: calendar
 #: view:calendar.event:calendar.view_calendar_event_form
@@ -1015,7 +1015,7 @@ msgstr ""
 #. module: calendar
 #: field:calendar.event,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Подписчики"
 
 #. module: calendar
 #: selection:calendar.event,byday:0
@@ -1046,7 +1046,7 @@ msgstr "Пятница"
 #. module: calendar
 #: view:calendar.event:calendar.view_calendar_event_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: calendar
 #: code:addons/calendar/calendar.py:1593
@@ -1065,6 +1065,8 @@ msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
 msgstr ""
+"Содержит обзор чата (количество сообщений, ...). Это краткое изложение "
+"непосредственно в HTML формате для того, чтобы вставить в виды kanban."
 
 #. module: calendar
 #: selection:calendar.alarm,interval:0
@@ -1084,7 +1086,7 @@ msgstr "Идентификатор"
 #. module: calendar
 #: help:calendar.event,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Если проверенные новые сообщения требуют вашего внимания."
 
 #. module: calendar
 #: help:calendar.event,active:0
@@ -1128,7 +1130,7 @@ msgstr ""
 #. module: calendar
 #: field:calendar.event,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Является подписчиком"
 
 #. module: calendar
 #: selection:calendar.event,byday:0
@@ -1138,7 +1140,7 @@ msgstr "Последний"
 #. module: calendar
 #: field:calendar.event,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: calendar
 #: field:calendar.alarm,write_uid:0
@@ -1147,7 +1149,7 @@ msgstr ""
 #: field:calendar.event,write_uid:0
 #: field:calendar.event.type,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: calendar
 #: field:calendar.alarm,write_date:0
@@ -1156,7 +1158,7 @@ msgstr ""
 #: field:calendar.event,write_date:0
 #: field:calendar.event.type,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: calendar
 #: field:res.partner,calendar_last_notif_ack:0
@@ -1234,12 +1236,12 @@ msgstr ""
 #. module: calendar
 #: field:calendar.event,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Сообщения"
 
 #. module: calendar
 #: help:calendar.event,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Сообщения и журнал обращений"
 
 #. module: calendar
 #: selection:calendar.alarm,interval:0
@@ -1345,7 +1347,7 @@ msgstr "Владелец"
 #. module: calendar
 #: model:ir.model,name:calendar.model_res_partner
 msgid "Partner"
-msgstr ""
+msgstr "Партнер"
 
 #. module: calendar
 #: view:calendar.event:calendar.view_calendar_event_search
@@ -1509,7 +1511,7 @@ msgstr ""
 #: field:calendar.attendee,state:0
 #: field:calendar.event,state:0
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 #. module: calendar
 #: help:calendar.attendee,state:0
@@ -1608,7 +1610,7 @@ msgstr ""
 #: view:calendar.event:calendar.view_calendar_event_search
 #: field:calendar.event,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Непрочитанные сообщения"
 
 #. module: calendar
 #: view:calendar.event:calendar.view_calendar_event_form
