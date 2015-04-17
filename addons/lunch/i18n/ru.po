@@ -273,7 +273,7 @@ msgstr ""
 #: view:lunch.order.line:lunch.lunch_order_line_search_view
 #: selection:lunch.order.line,state:0
 msgid "Cancelled"
-msgstr ""
+msgstr "Отменено"
 
 #. module: lunch
 #: field:lunch.order.line,cashmove:0
@@ -323,7 +323,7 @@ msgstr ""
 #: field:lunch.product.category,create_uid:0
 #: field:lunch.validation,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: lunch
 #: field:lunch.alert,create_date:0
@@ -336,7 +336,7 @@ msgstr ""
 #: field:lunch.product.category,create_date:0
 #: field:lunch.validation,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: lunch
 #: field:lunch.cashmove,date:0
@@ -408,7 +408,7 @@ msgstr ""
 #: view:lunch.cashmove:lunch.view_lunch_cashmove_filter
 #: view:lunch.order.line:lunch.lunch_order_line_search_view
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: lunch
 #: model:ir.module.category,description:lunch.module_lunch_category
@@ -430,7 +430,7 @@ msgstr ""
 #: field:report.lunch.order.line,id:0
 #: field:report.lunch.report_lunchorder,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: lunch
 #: field:lunch.cashmove,state:0
@@ -463,7 +463,7 @@ msgstr "Июнь"
 #: field:lunch.product.category,write_uid:0
 #: field:lunch.validation,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: lunch
 #: field:lunch.alert,write_date:0
@@ -476,7 +476,7 @@ msgstr ""
 #: field:lunch.product.category,write_date:0
 #: field:lunch.validation,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: lunch
 #: view:lunch.order:lunch.orders_form_view
@@ -610,7 +610,7 @@ msgstr ""
 #. module: lunch
 #: view:lunch.order.line:lunch.lunch_order_line_search_view
 msgid "Order Month"
-msgstr ""
+msgstr "Месяц заказа"
 
 #. module: lunch
 #: view:lunch.order.order:lunch.order_order_lines_view
@@ -784,7 +784,7 @@ msgstr ""
 #: field:lunch.order,state:0
 #: field:lunch.order.line,state:0
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 #. module: lunch
 #: field:lunch.alert,sunday:0
@@ -831,7 +831,7 @@ msgstr ""
 #: view:lunch.order.line:lunch.orders_order_lines_tree_view
 #: view:website:lunch.report_lunchorder
 msgid "Total"
-msgstr ""
+msgstr "Итоговая сумма"
 
 #. module: lunch
 #: field:report.lunch.order.line,price_total:0
