@@ -90,13 +90,13 @@ msgstr "Договоры"
 #: field:hr.contract,create_uid:0
 #: field:hr.contract.type,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: hr_contract
 #: field:hr.contract,create_date:0
 #: field:hr.contract.type,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: hr_contract
 #: field:hr.contract,department_id:0
@@ -128,7 +128,7 @@ msgstr ""
 #. module: hr_contract
 #: view:hr.contract:hr_contract.hr_contract_view_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: hr_contract
 #: field:hr.employee,vehicle_distance:0
@@ -139,7 +139,7 @@ msgstr ""
 #: field:hr.contract,id:0
 #: field:hr.contract.type,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr_contract
 #: help:hr.employee,vehicle_distance:0
@@ -170,13 +170,13 @@ msgstr "Название должности"
 #: field:hr.contract,write_uid:0
 #: field:hr.contract.type,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_contract
 #: field:hr.contract,write_date:0
 #: field:hr.contract.type,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_contract
 #: help:hr.employee,contract_id:0
