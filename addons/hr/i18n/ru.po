@@ -227,7 +227,7 @@ msgstr "Укажите ваши отделы"
 #: field:hr.employee.category,create_uid:0
 #: field:hr.job,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: hr
 #: field:hr.config.settings,create_date:0
@@ -236,7 +236,7 @@ msgstr ""
 #: field:hr.employee.category,create_date:0
 #: field:hr.job,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: hr
 #: field:hr.job,no_of_employee:0
@@ -252,7 +252,7 @@ msgstr "Дата рождения"
 #: help:hr.employee,message_last_post:0
 #: help:hr.job,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: hr
 #: view:hr.department:hr.view_department_filter
@@ -387,7 +387,7 @@ msgstr ""
 #: field:hr.employee,message_follower_ids:0
 #: field:hr.job,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Подписчики"
 
 #. module: hr
 #: view:hr.employee:hr.hr_kanban_view_employees
@@ -403,7 +403,7 @@ msgstr "Пол"
 #: view:hr.employee:hr.view_employee_filter
 #: view:hr.job:hr.view_job_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: hr
 #: view:hr.employee:hr.view_employee_form
@@ -422,6 +422,8 @@ msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
 msgstr ""
+"Содержит обзор чата (количество сообщений, ...). Это краткое изложение "
+"непосредственно в HTML формате для того, чтобы вставить в виды kanban."
 
 #. module: hr
 #: field:hr.employee,address_home_id:0
@@ -448,7 +450,7 @@ msgstr "Управление кадрами"
 #: field:hr.employee.category,id:0
 #: field:hr.job,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr
 #: field:hr.employee,identification_id:0
@@ -485,7 +487,7 @@ msgstr ""
 #: field:hr.employee,message_is_follower:0
 #: field:hr.job,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Является подписчиком"
 
 #. module: hr
 #: view:hr.employee:hr.view_employee_filter
@@ -531,7 +533,7 @@ msgstr "Должности"
 #: field:hr.employee,message_last_post:0
 #: field:hr.job,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: hr
 #: field:hr.config.settings,write_uid:0
@@ -540,7 +542,7 @@ msgstr ""
 #: field:hr.employee.category,write_uid:0
 #: field:hr.job,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr
 #: field:hr.config.settings,write_date:0
@@ -548,7 +550,7 @@ msgstr ""
 #: field:hr.employee,write_date:0
 #: field:hr.employee.category,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr
 #: field:hr.employee,last_login:0
@@ -872,7 +874,7 @@ msgstr ""
 #: field:hr.employee,message_summary:0
 #: field:hr.job,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Резюме"
 
 #. module: hr
 #: field:hr.employee,category_ids:0
@@ -975,7 +977,7 @@ msgstr ""
 #: field:hr.employee,message_unread:0
 #: field:hr.job,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Непрочитанные сообщения"
 
 #. module: hr
 #: field:hr.job,write_date:0
