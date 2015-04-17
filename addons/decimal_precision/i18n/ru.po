@@ -21,13 +21,13 @@ msgstr ""
 #: field:decimal.precision,create_uid:0
 #: field:decimal.precision.test,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: decimal_precision
 #: field:decimal.precision,create_date:0
 #: field:decimal.precision.test,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: decimal_precision
 #: model:ir.actions.act_window,name:decimal_precision.action_decimal_precision_form
@@ -50,19 +50,19 @@ msgstr "Знаков"
 #: field:decimal.precision,id:0
 #: field:decimal.precision.test,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: decimal_precision
 #: field:decimal.precision,write_uid:0
 #: field:decimal.precision.test,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: decimal_precision
 #: field:decimal.precision,write_date:0
 #: field:decimal.precision.test,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: decimal_precision
 #: sql_constraint:decimal.precision:0
