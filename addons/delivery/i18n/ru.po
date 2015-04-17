@@ -177,14 +177,14 @@ msgstr "Страны"
 #: field:delivery.grid,create_uid:0
 #: field:delivery.grid.line,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: delivery
 #: field:delivery.carrier,create_date:0
 #: field:delivery.grid,create_date:0
 #: field:delivery.grid.line,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: delivery
 #: code:addons/delivery/delivery.py:162
@@ -376,14 +376,14 @@ msgstr ""
 #: field:delivery.grid,write_uid:0
 #: field:delivery.grid.line,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: delivery
 #: field:delivery.carrier,write_date:0
 #: field:delivery.grid,write_date:0
 #: field:delivery.grid.line,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: delivery
 #: field:delivery.grid.line,max_value:0
@@ -489,7 +489,7 @@ msgstr "Заказ продаж"
 #. module: delivery
 #: model:ir.model,name:delivery.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "Позиция заказа на продажу"
 
 #. module: delivery
 #: code:addons/delivery/delivery.py:237
