@@ -57,7 +57,7 @@ msgstr "Пароль Google"
 #: code:addons/google_base_account/wizard/google_login.py:77
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: google_base_account
 #: view:res.users:0
@@ -93,7 +93,7 @@ msgstr "Контакт Google"
 #. module: google_base_account
 #: view:google.login:0
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
 #. module: google_base_account
 #: field:google.login,user:0
