@@ -681,7 +681,7 @@ msgstr "Создать счета"
 #: field:purchase.order.line,create_uid:0
 #: field:purchase.order.line_invoice,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: purchase
 #: field:purchase.config.settings,create_date:0
@@ -690,7 +690,7 @@ msgstr ""
 #: field:purchase.order.line,create_date:0
 #: field:purchase.order.line_invoice,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: purchase
 #: field:purchase.order,currency_id:0
@@ -721,7 +721,7 @@ msgstr "Дата заказа"
 #. module: purchase
 #: help:purchase.order,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: purchase
 #: help:purchase.order,date_approve:0
@@ -893,7 +893,7 @@ msgstr ""
 #. module: purchase
 #: view:purchase.report:purchase.view_purchase_order_search
 msgid "Extended Filters"
-msgstr ""
+msgstr "Расширенные фильтры"
 
 #. module: purchase
 #: field:purchase.order,fiscal_position:0
@@ -916,7 +916,7 @@ msgstr "Два уровня подтверждения"
 #: view:purchase.order.line:purchase.purchase_order_line_search
 #: view:purchase.report:purchase.view_purchase_order_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: purchase
 #: view:purchase.order.line:purchase.purchase_order_line_search
@@ -940,7 +940,7 @@ msgstr ""
 #: field:purchase.order.line_invoice,id:0
 #: field:purchase.report,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: purchase
 #: help:purchase.order,message_unread:0
@@ -1041,7 +1041,7 @@ msgstr "Счет получен"
 #: code:addons/purchase/purchase.py:1482
 #, python-format
 msgid "Invoice paid"
-msgstr ""
+msgstr "Счет оплачен"
 
 #. module: purchase
 #: code:addons/purchase/purchase.py:1462
@@ -1115,7 +1115,7 @@ msgstr "Журнал"
 #. module: purchase
 #: field:purchase.order,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: purchase
 #: field:purchase.config.settings,write_uid:0
@@ -1124,7 +1124,7 @@ msgstr ""
 #: field:purchase.order.line,write_uid:0
 #: field:purchase.order.line_invoice,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: purchase
 #: field:purchase.config.settings,write_date:0
@@ -1133,7 +1133,7 @@ msgstr ""
 #: field:purchase.order.line,write_date:0
 #: field:purchase.order.line_invoice,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: purchase
 #: view:purchase.config.settings:purchase.view_purchase_configuration
@@ -1216,7 +1216,7 @@ msgstr "Цена до налогов"
 #. module: purchase
 #: view:purchase.order:purchase.view_purchase_order_filter
 msgid "New Mail"
-msgstr ""
+msgstr "Новое письмо"
 
 #. module: purchase
 #: code:addons/purchase/purchase.py:1205
@@ -1292,7 +1292,7 @@ msgstr "Позиции заказа"
 #: view:purchase.order:purchase.view_purchase_order_filter
 #: view:purchase.report:purchase.view_purchase_order_search
 msgid "Order Month"
-msgstr ""
+msgstr "Месяц заказа"
 
 #. module: purchase
 #: field:purchase.order,name:0
@@ -1949,7 +1949,7 @@ msgstr "Условия"
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_form
 msgid "Terms and conditions..."
-msgstr ""
+msgstr "Сроки и условия..."
 
 #. module: purchase
 #: help:purchase.order,amount_untaxed:0
@@ -2070,7 +2070,7 @@ msgstr "Итого без налога"
 #. module: purchase
 #: view:website:purchase.report_purchaseorder
 msgid "Total Without Taxes"
-msgstr ""
+msgstr "Всего без налогов"
 
 #. module: purchase
 #: view:purchase.order:purchase.purchase_order_tree
@@ -2159,7 +2159,7 @@ msgstr "Пользователь"
 #: view:website:purchase.report_purchaseorder
 #: view:website:purchase.report_purchasequotation
 msgid "VAT:"
-msgstr ""
+msgstr "НДС:"
 
 #. module: purchase
 #: field:purchase.report,validator:0
@@ -2204,12 +2204,12 @@ msgstr "Внимание!"
 #. module: purchase
 #: field:purchase.order,website_message_ids:0
 msgid "Website Messages"
-msgstr ""
+msgstr "Сообщения сайта"
 
 #. module: purchase
 #: help:purchase.order,website_message_ids:0
 msgid "Website communication history"
-msgstr ""
+msgstr "История переписки сайта"
 
 #. module: purchase
 #: help:stock.warehouse,buy_to_resupply:0
