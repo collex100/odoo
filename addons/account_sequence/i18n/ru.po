@@ -46,17 +46,17 @@ msgstr "Настройка вашей нумерации по счету"
 #. module: account_sequence
 #: field:account.sequence.installer,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: account_sequence
 #: field:account.sequence.installer,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: account_sequence
 #: field:account.sequence.installer,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: account_sequence
 #: field:account.sequence.installer,number_increment:0
@@ -93,12 +93,12 @@ msgstr "Элементы журнала"
 #. module: account_sequence
 #: field:account.sequence.installer,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: account_sequence
 #: field:account.sequence.installer,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: account_sequence
 #: field:account.sequence.installer,name:0
