@@ -25,12 +25,12 @@ msgstr "Компании"
 #. module: pad
 #: field:pad.common,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: pad
 #: field:pad.common,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: pad
 #: code:addons/pad/pad.py:50
@@ -51,17 +51,17 @@ msgstr ""
 #. module: pad
 #: field:pad.common,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: pad
 #: field:pad.common,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: pad
 #: field:pad.common,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: pad
 #: field:res.company,pad_key:0
