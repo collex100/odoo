@@ -10,11 +10,12 @@ msgstr ""
 "PO-Revision-Date: 2012-11-29 09:49+0000\n"
 "Last-Translator: Chertykov Denis <chertykov@gmail.com>\n"
 "Language-Team: \n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-04-22 07:02+0000\n"
 "X-Generator: Launchpad (build 16985)\n"
+"X-Launchpad-Export-Date: 2014-04-22 07:02+0000\n"
 
 #. module: project_mrp
 #: model:process.node,note:project_mrp.process_node_procuretasktask0
@@ -70,7 +71,7 @@ msgstr ""
 #. module: project_mrp
 #: field:procurement.order,sale_line_id:0
 msgid "Sales order line"
-msgstr ""
+msgstr "Строка заказа на продажу"
 
 #. module: project_mrp
 #: model:ir.model,name:project_mrp.model_project_task
@@ -98,18 +99,18 @@ msgstr ""
 #. module: project_mrp
 #: field:product.product,project_id:0
 msgid "Project"
-msgstr ""
+msgstr "Проект"
 
 #. module: project_mrp
 #: model:ir.model,name:project_mrp.model_procurement_order
 #: field:project.task,procurement_id:0
 msgid "Procurement"
-msgstr ""
+msgstr "Поставка"
 
 #. module: project_mrp
 #: view:product.product:0
 msgid "False"
-msgstr ""
+msgstr "Неверно"
 
 #. module: project_mrp
 #: code:addons/project_mrp/project_procurement.py:86
@@ -125,7 +126,7 @@ msgstr ""
 #. module: project_mrp
 #: field:project.task,sale_line_id:0
 msgid "Sales Order Line"
-msgstr ""
+msgstr "Позиция заказа на продажу"
 
 #. module: project_mrp
 #: model:process.transition,name:project_mrp.process_transition_createtask0
@@ -135,7 +136,7 @@ msgstr ""
 #. module: project_mrp
 #: model:ir.model,name:project_mrp.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "Заказ на продажу"
 
 #. module: project_mrp
 #: view:project.task:0
