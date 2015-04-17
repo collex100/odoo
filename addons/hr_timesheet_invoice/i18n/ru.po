@@ -206,7 +206,7 @@ msgstr ""
 #: field:hr.timesheet.invoice.create.final,create_uid:0
 #: field:hr_timesheet_invoice.factor,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: hr_timesheet_invoice
 #: field:hr.timesheet.analytic.profit,create_date:0
@@ -214,7 +214,7 @@ msgstr ""
 #: field:hr.timesheet.invoice.create.final,create_date:0
 #: field:hr_timesheet_invoice.factor,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: hr_timesheet_invoice
 #: view:website:hr_timesheet_invoice.report_analyticprofit
@@ -390,7 +390,7 @@ msgstr "Базовый счет"
 #. module: hr_timesheet_invoice
 #: view:report.timesheet.line:hr_timesheet_invoice.view_timesheet_line_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: hr_timesheet_invoice
 #: field:hr.timesheet.analytic.profit,id:0
@@ -406,7 +406,7 @@ msgstr ""
 #: field:report_timesheet.invoice,id:0
 #: field:report_timesheet.user,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr_timesheet_invoice
 #: view:website:hr_timesheet_invoice.report_analyticprofit
@@ -546,7 +546,7 @@ msgstr ""
 #: field:hr.timesheet.invoice.create.final,write_uid:0
 #: field:hr_timesheet_invoice.factor,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_timesheet_invoice
 #: field:hr.timesheet.analytic.profit,write_date:0
@@ -554,7 +554,7 @@ msgstr ""
 #: field:hr.timesheet.invoice.create.final,write_date:0
 #: field:hr_timesheet_invoice.factor,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_timesheet_invoice
 #: field:hr.timesheet.invoice.create.final,name:0
