@@ -435,6 +435,8 @@ msgid ""
 "${object.company_id.name|safe} ${object.state in ('draft', 'sent') and "
 "'Quotation' or 'Order'} (Ref ${object.name or 'n/a' })"
 msgstr ""
+"${object.company_id.name|safe} ${object.state in ('draft', 'sent') и "
+"'Quotation' or 'Order'} (Ref ${object.name or 'n/a' })"
 
 #. module: portal_sale
 #: model:email.template,subject:portal_sale.email_template_edi_invoice
