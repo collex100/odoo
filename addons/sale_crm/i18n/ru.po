@@ -52,12 +52,12 @@ msgstr "Создать предложение цен"
 #. module: sale_crm
 #: field:crm.make.sale,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: sale_crm
 #: field:crm.make.sale,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: sale_crm
 #: field:crm.make.sale,partner_id:0
@@ -67,7 +67,7 @@ msgstr "Заказчик"
 #. module: sale_crm
 #: field:crm.make.sale,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: sale_crm
 #: code:addons/sale_crm/wizard/crm_make_sale.py:91
@@ -78,12 +78,12 @@ msgstr "Недостаточно данных!"
 #. module: sale_crm
 #: field:crm.make.sale,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: sale_crm
 #: field:crm.make.sale,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: sale_crm
 #: model:ir.actions.act_window,name:sale_crm.action_crm_make_sale
