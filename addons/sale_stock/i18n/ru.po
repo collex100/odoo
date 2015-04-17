@@ -231,12 +231,12 @@ msgstr "Подготовка счетов основанных на действ
 #. module: sale_stock
 #: model:ir.model,name:sale_stock.model_product_product
 msgid "Product"
-msgstr ""
+msgstr "Товар"
 
 #. module: sale_stock
 #: field:sale.order.line,product_tmpl_id:0
 msgid "Product Template"
-msgstr ""
+msgstr "Шаблон продукта"
 
 #. module: sale_stock
 #: field:sale.config.settings,group_mrp_properties:0
@@ -330,7 +330,7 @@ msgstr "Метод выставления счета по умолчанию:"
 #. module: sale_stock
 #: view:stock.picking:sale_stock.view_picking_internal_search_inherit
 msgid "To Invoice"
-msgstr ""
+msgstr "Выписать счет"
 
 #. module: sale_stock
 #: help:sale.config.settings,group_invoice_deli_orders:0
