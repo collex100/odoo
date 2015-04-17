@@ -128,7 +128,7 @@ msgstr "Дата закрытия"
 #: view:hr.timesheet.report:hr_timesheet.view_hr_timesheet_report_search
 #: field:hr.timesheet.report,company_id:0
 msgid "Company"
-msgstr ""
+msgstr "Компания"
 
 #. module: hr_timesheet
 #: field:hr.timesheet.report,cost:0
@@ -150,14 +150,14 @@ msgstr "Расходы и доходы"
 #: field:hr.sign.in.project,create_uid:0
 #: field:hr.sign.out.project,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: hr_timesheet
 #: field:hr.analytic.timesheet,create_date:0
 #: field:hr.sign.in.project,create_date:0
 #: field:hr.sign.out.project,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: hr_timesheet
 #: field:hr.sign.in.project,server_date:0
@@ -184,7 +184,7 @@ msgstr ""
 #. module: hr_timesheet
 #: field:hr.timesheet.report,name:0
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #. module: hr_timesheet
 #: view:hr.analytic.timesheet:hr_timesheet.hr_timesheet_line_form
@@ -268,7 +268,7 @@ msgstr ""
 #: view:hr.analytic.timesheet:hr_timesheet.hr_timesheet_line_search
 #: view:hr.timesheet.report:hr_timesheet.view_hr_timesheet_report_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: hr_timesheet
 #: view:hr.timesheet.report:hr_timesheet.view_hr_timesheet_report_search
@@ -281,7 +281,7 @@ msgstr ""
 #: field:hr.sign.out.project,id:0
 #: field:hr.timesheet.report,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr_timesheet
 #: help:hr.employee,product_id:0
@@ -305,14 +305,14 @@ msgstr ""
 #: field:hr.sign.in.project,write_uid:0
 #: field:hr.sign.out.project,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_timesheet
 #: field:hr.analytic.timesheet,write_date:0
 #: field:hr.sign.in.project,write_date:0
 #: field:hr.sign.out.project,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_timesheet
 #: field:hr.sign.out.project,analytic_amount:0
@@ -351,7 +351,7 @@ msgstr ""
 #. module: hr_timesheet
 #: field:hr.analytic.timesheet,partner_id:0
 msgid "Partner"
-msgstr ""
+msgstr "Партнер"
 
 #. module: hr_timesheet
 #: code:addons/hr_timesheet/wizard/hr_timesheet_sign_in_out.py:77
@@ -508,7 +508,7 @@ msgstr "Суммарное время"
 #. module: hr_timesheet
 #: field:hr.employee,uom_id:0
 msgid "Unit of Measure"
-msgstr ""
+msgstr "Единица измерения"
 
 #. module: hr_timesheet
 #: view:hr.timesheet.report:hr_timesheet.view_hr_timesheet_report_search
