@@ -25,12 +25,12 @@ msgstr "Активен"
 #. module: sale_journal
 #: field:sale_journal.invoice.type,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: sale_journal
 #: field:sale_journal.invoice.type,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: sale_journal
 #: help:sale.order,invoice_type_id:0
@@ -45,7 +45,7 @@ msgstr "Сгруппировано"
 #. module: sale_journal
 #: field:sale_journal.invoice.type,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: sale_journal
 #: help:sale_journal.invoice.type,active:0
@@ -104,12 +104,12 @@ msgstr "Метод выставления счета"
 #. module: sale_journal
 #: field:sale_journal.invoice.type,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: sale_journal
 #: field:sale_journal.invoice.type,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: sale_journal
 #: selection:sale_journal.invoice.type,invoicing_method:0
