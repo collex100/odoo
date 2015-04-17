@@ -306,7 +306,7 @@ msgstr ""
 #: field:hr.salary.rule.category,create_uid:0
 #: field:payslip.lines.contribution.register,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: hr_payroll
 #: field:hr.contribution.register,create_date:0
@@ -322,7 +322,7 @@ msgstr ""
 #: field:hr.salary.rule.category,create_date:0
 #: field:payslip.lines.contribution.register,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: hr_payroll
 #: field:hr.payslip,credit_note:0
@@ -403,7 +403,7 @@ msgstr ""
 #: selection:hr.payslip,state:0
 #: view:hr.payslip.run:hr_payroll.hr_payslip_run_filter
 msgid "Done"
-msgstr ""
+msgstr "Выполнено"
 
 #. module: hr_payroll
 #: view:hr.payslip.run:hr_payroll.hr_payslip_run_filter
@@ -479,7 +479,7 @@ msgstr ""
 #: code:addons/hr_payroll/hr_payroll.py:885
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: hr_payroll
 #: help:hr.payslip.line,register_id:0
@@ -527,7 +527,7 @@ msgstr ""
 #: view:hr.payslip.line:hr_payroll.view_hr_payslip_line_filter
 #: view:hr.salary.rule:hr_payroll.view_hr_rule_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: hr_payroll
 #: field:hr.contribution.register,id:0
@@ -546,7 +546,7 @@ msgstr ""
 #: field:report.hr_payroll.report_payslip,id:0
 #: field:report.hr_payroll.report_payslipdetails,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: hr_payroll
 #: view:website:hr_payroll.report_payslip
@@ -622,7 +622,7 @@ msgstr ""
 #: field:hr.salary.rule.category,write_uid:0
 #: field:payslip.lines.contribution.register,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_payroll
 #: field:hr.contribution.register,write_date:0
@@ -638,7 +638,7 @@ msgstr ""
 #: field:hr.salary.rule.category,write_date:0
 #: field:payslip.lines.contribution.register,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: hr_payroll
 #: field:hr.config.settings,module_hr_payroll_account:0
@@ -733,7 +733,7 @@ msgstr ""
 #. module: hr_payroll
 #: field:hr.contribution.register,partner_id:0
 msgid "Partner"
-msgstr ""
+msgstr "Партнер"
 
 #. module: hr_payroll
 #: field:hr.payslip.input,payslip_id:0
@@ -932,7 +932,7 @@ msgstr ""
 #: field:hr.payslip.line,quantity:0
 #: field:hr.salary.rule,quantity:0
 msgid "Quantity"
-msgstr ""
+msgstr "Количество"
 
 #. module: hr_payroll
 #: view:website:hr_payroll.report_contributionregister
@@ -1142,7 +1142,7 @@ msgstr "Состояния"
 #: field:hr.payslip,state:0
 #: field:hr.payslip.run,state:0
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 #. module: hr_payroll
 #: field:hr.payslip,struct_id:0
@@ -1249,7 +1249,7 @@ msgstr ""
 #: code:addons/hr_payroll/wizard/hr_payroll_payslips_by_employees.py:52
 #, python-format
 msgid "Warning!"
-msgstr ""
+msgstr "Внимание!"
 
 #. module: hr_payroll
 #: selection:hr.contract,schedule_pay:0
