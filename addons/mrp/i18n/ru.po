@@ -641,7 +641,7 @@ msgstr ""
 #: field:mrp.workcenter.load,create_uid:0
 #: field:stock.move.consume,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: mrp
 #: field:change.production.qty,create_date:0
@@ -662,7 +662,7 @@ msgstr ""
 #: field:mrp.workcenter.load,create_date:0
 #: field:stock.move.consume,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: mrp
 #: field:mrp.workcenter,costs_cycle_account_id:0
@@ -680,7 +680,7 @@ msgstr "Стоимость циклов"
 #: help:mrp.production,message_last_post:0
 #: help:mrp.production.workcenter.line,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: mrp
 #: selection:mrp.workcenter.load,time_unit:0
@@ -742,7 +742,7 @@ msgstr "Дата окончания"
 #: code:addons/mrp/wizard/change_production_qty.py:88
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: mrp
 #: view:mrp.production:mrp.mrp_production_form_view
@@ -781,7 +781,7 @@ msgstr "Расположение готовой продукции"
 #: field:mrp.production,message_follower_ids:0
 #: field:mrp.production.workcenter.line,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Подписчики"
 
 #. module: mrp
 #: view:mrp.production:mrp.mrp_production_form_view
@@ -829,7 +829,7 @@ msgstr ""
 #. module: mrp
 #: view:mrp.property:mrp.view_mrp_property_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: mrp
 #: view:mrp.bom:mrp.view_mrp_bom_filter
@@ -848,6 +848,8 @@ msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
 msgstr ""
+"Содержит обзор чата (количество сообщений, ...). Это краткое изложение "
+"непосредственно в HTML формате для того, чтобы вставить в виды kanban."
 
 #. module: mrp
 #: field:mrp.workcenter,costs_hour_account_id:0
@@ -882,7 +884,7 @@ msgstr "Стоимость часа"
 #: field:report.workcenter.load,id:0
 #: field:stock.move.consume,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: mrp
 #: help:mrp.bom,product_id:0
@@ -895,7 +897,7 @@ msgstr ""
 #: help:mrp.production,message_unread:0
 #: help:mrp.production.workcenter.line,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Если проверенные новые сообщения требуют вашего внимания."
 
 #. module: mrp
 #: help:mrp.bom,active:0
@@ -935,14 +937,14 @@ msgstr ""
 #: code:addons/mrp/mrp.py:617
 #, python-format
 msgid "Invalid Action!"
-msgstr ""
+msgstr "Неверное действие!"
 
 #. module: mrp
 #: field:mrp.bom,message_is_follower:0
 #: field:mrp.production,message_is_follower:0
 #: field:mrp.production.workcenter.line,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Является подписчиком"
 
 #. module: mrp
 #: help:mrp.routing,location_id:0
@@ -960,7 +962,7 @@ msgstr ""
 #: field:mrp.production,message_last_post:0
 #: field:mrp.production.workcenter.line,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: mrp
 #: field:change.production.qty,write_uid:0
@@ -981,7 +983,7 @@ msgstr ""
 #: field:mrp.workcenter.load,write_uid:0
 #: field:stock.move.consume,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: mrp
 #: field:change.production.qty,write_date:0
@@ -1002,7 +1004,7 @@ msgstr ""
 #: field:mrp.workcenter.load,write_date:0
 #: field:stock.move.consume,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: mrp
 #: view:mrp.production:mrp.view_mrp_production_filter
@@ -1165,14 +1167,14 @@ msgstr "Основные данные"
 #: field:mrp.production,message_ids:0
 #: field:mrp.production.workcenter.line,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Сообщения"
 
 #. module: mrp
 #: help:mrp.bom,message_ids:0
 #: help:mrp.production,message_ids:0
 #: help:mrp.production.workcenter.line,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Сообщения и журнал обращений"
 
 #. module: mrp
 #: field:mrp.product.produce,mode:0
@@ -1279,7 +1281,7 @@ msgstr ""
 #. module: mrp
 #: view:mrp.config.settings:mrp.view_mrp_config
 msgid "Order"
-msgstr ""
+msgstr "Заказ"
 
 #. module: mrp
 #: model:ir.ui.menu,name:mrp.menu_mrp_production_order_action
@@ -1463,7 +1465,7 @@ msgstr "Минимальная кратность"
 #. module: mrp
 #: model:ir.model,name:mrp.model_product_template
 msgid "Product Template"
-msgstr ""
+msgstr "Шаблон продукта"
 
 #. module: mrp
 #: field:mrp.bom.line,product_uos:0
@@ -1956,7 +1958,7 @@ msgstr "Изменения оценки запасов"
 #: field:mrp.production,message_summary:0
 #: field:mrp.production.workcenter.line,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Резюме"
 
 #. module: mrp
 #: code:addons/mrp/report/price.py:141
@@ -2133,7 +2135,7 @@ msgstr ""
 #: field:mrp.production,message_unread:0
 #: field:mrp.production.workcenter.line,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Непрочитанные сообщения"
 
 #. module: mrp
 #: view:mrp.production:mrp.mrp_production_form_view
@@ -2219,21 +2221,21 @@ msgstr ""
 #: code:addons/mrp/stock.py:169
 #, python-format
 msgid "Warning!"
-msgstr ""
+msgstr "Внимание!"
 
 #. module: mrp
 #: field:mrp.bom,website_message_ids:0
 #: field:mrp.production,website_message_ids:0
 #: field:mrp.production.workcenter.line,website_message_ids:0
 msgid "Website Messages"
-msgstr ""
+msgstr "Сообщения сайта"
 
 #. module: mrp
 #: help:mrp.bom,website_message_ids:0
 #: help:mrp.production,website_message_ids:0
 #: help:mrp.production.workcenter.line,website_message_ids:0
 msgid "Website communication history"
-msgstr ""
+msgstr "История переписки сайта"
 
 #. module: mrp
 #: field:report.mrp.inout,date:0
