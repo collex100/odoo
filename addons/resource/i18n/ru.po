@@ -75,7 +75,7 @@ msgstr "Ошибка конфигурации!"
 #: field:resource.calendar.leaves,create_uid:0
 #: field:resource.resource,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: resource
 #: field:resource.calendar,create_date:0
@@ -83,7 +83,7 @@ msgstr ""
 #: field:resource.calendar.leaves,create_date:0
 #: field:resource.resource,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: resource
 #: field:resource.calendar.attendance,dayofweek:0
@@ -124,7 +124,7 @@ msgstr "Пятница"
 #: view:resource.calendar.leaves:resource.view_resource_calendar_leaves_search
 #: view:resource.resource:resource.view_resource_resource_search
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: resource
 #: view:resource.calendar.attendance:resource.view_resource_calendar_attendance_form
@@ -142,7 +142,7 @@ msgstr "Человек"
 #: field:resource.calendar.leaves,id:0
 #: field:resource.resource,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: resource
 #: help:resource.calendar.leaves,resource_id:0
@@ -171,7 +171,7 @@ msgstr "Неактивен"
 #: field:resource.calendar.leaves,write_uid:0
 #: field:resource.resource,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: resource
 #: field:resource.calendar,write_date:0
@@ -179,7 +179,7 @@ msgstr ""
 #: field:resource.calendar.leaves,write_date:0
 #: field:resource.resource,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: resource
 #: model:ir.model,name:resource.model_resource_calendar_leaves
