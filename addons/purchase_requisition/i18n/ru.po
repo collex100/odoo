@@ -42,7 +42,7 @@ msgstr ""
 #: field:purchase.requisition,account_analytic_id:0
 #: field:purchase.requisition.line,account_analytic_id:0
 msgid "Analytic Account"
-msgstr ""
+msgstr "Счёт аналитики"
 
 #. module: purchase_requisition
 #: view:purchase.requisition:purchase_requisition.view_purchase_requisition_form
@@ -215,7 +215,7 @@ msgstr "Подтвердить заказ закупки"
 #: view:purchase.requisition:purchase_requisition.view_purchase_requisition_filter
 #: selection:purchase.requisition,state:0
 msgid "Confirmed"
-msgstr ""
+msgstr "Утверждено"
 
 #. module: purchase_requisition
 #: view:purchase.requisition.partner:purchase_requisition.view_purchase_requisition_partner
@@ -228,7 +228,7 @@ msgstr ""
 #: field:purchase.requisition.line,create_uid:0
 #: field:purchase.requisition.partner,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: purchase_requisition
 #: field:bid.line.qty,create_date:0
@@ -236,17 +236,17 @@ msgstr ""
 #: field:purchase.requisition.line,create_date:0
 #: field:purchase.requisition.partner,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: purchase_requisition
 #: view:website:purchase_requisition.report_purchaserequisitions
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 #. module: purchase_requisition
 #: help:purchase.requisition,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: purchase_requisition
 #: code:addons/purchase_requisition/wizard/purchase_requisition_partner.py:39
@@ -289,7 +289,7 @@ msgstr "Подписчики"
 #. module: purchase_requisition
 #: view:purchase.requisition:purchase_requisition.view_purchase_requisition_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: purchase_requisition
 #: help:purchase.requisition,message_summary:0
@@ -306,7 +306,7 @@ msgstr ""
 #: field:purchase.requisition.line,id:0
 #: field:purchase.requisition.partner,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: purchase_requisition
 #: help:purchase.requisition,message_unread:0
@@ -321,7 +321,7 @@ msgstr "Подписан"
 #. module: purchase_requisition
 #: field:purchase.requisition,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: purchase_requisition
 #: field:bid.line.qty,write_uid:0
@@ -329,7 +329,7 @@ msgstr ""
 #: field:purchase.requisition.line,write_uid:0
 #: field:purchase.requisition.partner,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: purchase_requisition
 #: field:bid.line.qty,write_date:0
@@ -337,7 +337,7 @@ msgstr ""
 #: field:purchase.requisition.line,write_date:0
 #: field:purchase.requisition.partner,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: purchase_requisition
 #: field:procurement.order,requisition_id:0
@@ -408,7 +408,7 @@ msgstr "ТМЦ"
 #. module: purchase_requisition
 #: model:ir.model,name:purchase_requisition.model_product_template
 msgid "Product Template"
-msgstr ""
+msgstr "Шаблон продукта"
 
 #. module: purchase_requisition
 #: field:purchase.requisition.line,product_uom_id:0
@@ -706,12 +706,12 @@ msgstr "Внимание!"
 #. module: purchase_requisition
 #: field:purchase.requisition,website_message_ids:0
 msgid "Website Messages"
-msgstr ""
+msgstr "Сообщения сайта"
 
 #. module: purchase_requisition
 #: help:purchase.requisition,website_message_ids:0
 msgid "Website communication history"
-msgstr ""
+msgstr "История переписки сайта"
 
 #. module: purchase_requisition
 #: code:addons/purchase_requisition/purchase_requisition.py:239
