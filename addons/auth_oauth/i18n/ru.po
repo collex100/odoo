@@ -63,12 +63,12 @@ msgstr ""
 #. module: auth_oauth
 #: field:auth.oauth.provider,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: auth_oauth
 #: field:auth.oauth.provider,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: auth_oauth
 #: field:auth.oauth.provider,data_endpoint:0
@@ -78,17 +78,17 @@ msgstr ""
 #. module: auth_oauth
 #: field:auth.oauth.provider,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: auth_oauth
 #: field:auth.oauth.provider,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: auth_oauth
 #: field:auth.oauth.provider,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: auth_oauth
 #: field:res.users,oauth_access_token:0
