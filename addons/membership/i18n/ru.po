@@ -134,13 +134,13 @@ msgstr ""
 #: field:membership.invoice,create_uid:0
 #: field:membership.membership_line,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: membership
 #: field:membership.invoice,create_date:0
 #: field:membership.membership_line,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: membership
 #: view:report.membership:membership.view_report_membership_search
@@ -230,7 +230,7 @@ msgstr ""
 #: code:addons/membership/membership.py:405
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: membership
 #: constraint:membership.membership_line:0
@@ -269,7 +269,7 @@ msgstr ""
 #: view:report.membership:membership.view_report_membership_search
 #: view:res.partner:membership.view_res_partner_member_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: membership
 #: view:product.template:membership.membership_product_search_form_view
@@ -281,7 +281,7 @@ msgstr "Объединять по..."
 #: field:membership.membership_line,id:0
 #: field:report.membership,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: membership
 #: view:product.template:membership.membership_product_search_form_view
@@ -357,13 +357,13 @@ msgstr "Дата вступления"
 #: field:membership.invoice,write_uid:0
 #: field:membership.membership_line,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: membership
 #: field:membership.invoice,write_date:0
 #: field:membership.membership_line,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: membership
 #: field:report.membership,partner_id:0
@@ -547,7 +547,7 @@ msgstr "Шаблон ТМЦ"
 #. module: membership
 #: field:report.membership,quantity:0
 msgid "Quantity"
-msgstr ""
+msgstr "Количество"
 
 #. module: membership
 #: view:report.membership:membership.view_report_membership_search
@@ -559,7 +559,7 @@ msgstr ""
 #: field:report.membership,user_id:0
 #: view:res.partner:membership.view_res_partner_member_filter
 msgid "Salesperson"
-msgstr ""
+msgstr "Продавец"
 
 #. module: membership
 #: help:res.partner,free_member:0
@@ -599,7 +599,7 @@ msgstr "Поставщики"
 #. module: membership
 #: view:product.template:membership.membership_products_form
 msgid "Taxes"
-msgstr ""
+msgstr "Налоги"
 
 #. module: membership
 #: help:res.partner,membership_amount:0
