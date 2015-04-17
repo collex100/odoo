@@ -86,7 +86,7 @@ msgstr "Комплектовочный лист"
 #. module: warning
 #: model:ir.model,name:warning.model_product_template
 msgid "Product Template"
-msgstr ""
+msgstr "Шаблон продукта"
 
 #. module: warning
 #: model:ir.model,name:warning.model_purchase_order
