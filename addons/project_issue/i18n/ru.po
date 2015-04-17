@@ -237,12 +237,12 @@ msgstr "Создавать вопросы из входящей почты "
 #: field:project.issue,create_uid:0
 #: field:project.issue.version,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: project_issue
 #: field:project.issue.version,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: project_issue
 #: field:project.issue,create_date:0
@@ -279,7 +279,7 @@ msgstr "Дата открытия"
 #. module: project_issue
 #: help:project.issue,message_last_post:0
 msgid "Date of the last message posted on the record."
-msgstr ""
+msgstr "Дата последнего сообщения размещенного в отчете."
 
 #. module: project_issue
 #: field:project.issue,days_since_creation:0
@@ -380,7 +380,7 @@ msgstr "Подписчики"
 #: view:project.issue:project_issue.view_project_issue_filter
 #: view:project.issue.report:project_issue.view_project_issue_report_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: project_issue
 #: selection:project.issue,priority:0
@@ -394,13 +394,15 @@ msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
 msgstr ""
+"Содержит обзор чата (количество сообщений, ...). Это краткое изложение "
+"непосредственно в HTML формате для того, чтобы вставить в виды kanban."
 
 #. module: project_issue
 #: field:project.issue,id:0
 #: field:project.issue.report,id:0
 #: field:project.issue.version,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: project_issue
 #: help:project.project,project_escalation_id:0
@@ -527,7 +529,7 @@ msgstr ""
 #. module: project_issue
 #: field:project.issue,message_last_post:0
 msgid "Last Message Date"
-msgstr ""
+msgstr "Дата последнего сообщения"
 
 #. module: project_issue
 #: field:project.issue,date_last_stage_update:0
@@ -539,12 +541,12 @@ msgstr ""
 #: field:project.issue,write_uid:0
 #: field:project.issue.version,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: project_issue
 #: field:project.issue.version,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: project_issue
 #: model:project.category,name:project_issue.project_issue_category_01
@@ -582,7 +584,7 @@ msgstr "Новый"
 #. module: project_issue
 #: view:project.issue:project_issue.view_project_issue_filter
 msgid "New Mail"
-msgstr ""
+msgstr "Новое письмо"
 
 #. module: project_issue
 #: field:project.issue,date_action_next:0
@@ -736,7 +738,7 @@ msgstr "Состояние"
 #. module: project_issue
 #: field:project.issue,message_summary:0
 msgid "Summary"
-msgstr ""
+msgstr "Резюме"
 
 #. module: project_issue
 #: field:project.issue,categ_ids:0
