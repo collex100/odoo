@@ -241,7 +241,7 @@ msgstr "Страна: название или код страны"
 #: field:base_import.tests.models.o2m.child,create_uid:0
 #: field:base_import.tests.models.preview,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: base_import
 #: field:base_import.import,create_date:0
@@ -259,7 +259,7 @@ msgstr ""
 #: field:base_import.tests.models.o2m.child,create_date:0
 #: field:base_import.tests.models.preview,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: base_import
 #. openerp-web
@@ -655,7 +655,7 @@ msgstr ""
 #: field:base_import.tests.models.o2m.child,write_uid:0
 #: field:base_import.tests.models.preview,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: base_import
 #: field:base_import.import,write_date:0
@@ -673,7 +673,7 @@ msgstr ""
 #: field:base_import.tests.models.o2m.child,write_date:0
 #: field:base_import.tests.models.preview,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: base_import
 #. openerp-web
