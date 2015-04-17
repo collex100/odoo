@@ -102,12 +102,12 @@ msgstr ""
 #. module: google_drive
 #: field:google.drive.config,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: google_drive
 #: field:google.drive.config,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: google_drive
 #: code:addons/google_drive/google_drive.py:157
@@ -118,14 +118,14 @@ msgstr ""
 #. module: google_drive
 #: model:ir.filters,name:google_drive.filter_partner
 msgid "Customer"
-msgstr ""
+msgstr "Клиент"
 
 #. module: google_drive
 #: code:addons/google_drive/google_drive.py:71
 #: code:addons/google_drive/google_drive.py:91
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: google_drive
 #: field:google.drive.config,filter_id:0
@@ -182,7 +182,7 @@ msgstr ""
 #. module: google_drive
 #: field:google.drive.config,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: google_drive
 #: code:addons/google_drive/google_drive.py:189
@@ -199,12 +199,12 @@ msgstr "Ошибка ключа!"
 #. module: google_drive
 #: field:google.drive.config,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: google_drive
 #: field:google.drive.config,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: google_drive
 #: field:google.drive.config,model:0
@@ -298,7 +298,7 @@ msgstr ""
 #: code:addons/google_drive/google_drive.py:106
 #, python-format
 msgid "Warning!"
-msgstr ""
+msgstr "Внимание!"
 
 #. module: google_drive
 #: code:addons/google_drive/google_drive.py:68
