@@ -29,7 +29,7 @@ msgstr "Активно"
 #: field:subscription.subscription,create_uid:0
 #: field:subscription.subscription.history,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: subscription
 #: field:subscription.document,create_date:0
@@ -37,7 +37,7 @@ msgstr ""
 #: field:subscription.subscription,create_date:0
 #: field:subscription.subscription.history,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: subscription
 #: field:subscription.subscription,cron_id:0
@@ -120,7 +120,7 @@ msgstr "Первая дата"
 #. module: subscription
 #: view:subscription.subscription:subscription.view_subscription_filter
 msgid "Group By"
-msgstr ""
+msgstr "Группировать по"
 
 #. module: subscription
 #: field:subscription.document,id:0
@@ -128,7 +128,7 @@ msgstr ""
 #: field:subscription.subscription,id:0
 #: field:subscription.subscription.history,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: subscription
 #: help:subscription.document,active:0
@@ -170,7 +170,7 @@ msgstr "Ед. изм. интервала"
 #: field:subscription.subscription,write_uid:0
 #: field:subscription.subscription.history,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: subscription
 #: field:subscription.document,write_date:0
@@ -178,7 +178,7 @@ msgstr ""
 #: field:subscription.subscription,write_date:0
 #: field:subscription.subscription.history,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: subscription
 #: selection:subscription.subscription,interval_type:0
