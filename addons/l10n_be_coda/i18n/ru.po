@@ -269,7 +269,7 @@ msgstr ""
 #: code:addons/l10n_be_coda/wizard/account_coda_import.py:145
 #, python-format
 msgid "Warning!"
-msgstr ""
+msgstr "Внимание!"
 
 #. module: l10n_be_coda
 #: model:account.coda.trans.category,description:l10n_be_coda.actrca_045
@@ -1324,7 +1324,7 @@ msgstr ""
 #. module: l10n_be_coda
 #: field:coda.bank.statement.line,partner_id:0
 msgid "Partner"
-msgstr ""
+msgstr "Партнер"
 
 #. module: l10n_be_coda
 #: model:account.coda.trans.code,comment:l10n_be_coda.actcc_80_37
@@ -1385,7 +1385,7 @@ msgstr ""
 #: field:coda.bank.account,currency:0
 #: field:coda.bank.statement,currency:0
 msgid "Currency"
-msgstr ""
+msgstr "Валюта"
 
 #. module: l10n_be_coda
 #: model:account.coda.trans.code,description:l10n_be_coda.actcc_07_06
@@ -2053,7 +2053,7 @@ msgstr ""
 #: code:addons/l10n_be_coda/l10n_be_coda.py:303
 #, python-format
 msgid "Invalid Action!"
-msgstr ""
+msgstr "Неверное действие!"
 
 #. module: l10n_be_coda
 #: model:account.coda.trans.code,description:l10n_be_coda.actcc_07_14
@@ -2916,7 +2916,7 @@ msgstr ""
 #: code:addons/l10n_be_coda/wizard/account_coda_import.py:526
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "Ошибка!"
 
 #. module: l10n_be_coda
 #: help:coda.bank.statement,type:0
@@ -3567,7 +3567,7 @@ msgstr ""
 #: field:account.coda.trans.code,description:0
 #: field:account.coda.trans.type,description:0
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #. module: l10n_be_coda
 #: model:account.coda.trans.code,description:l10n_be_coda.actcc_07_01
@@ -3623,7 +3623,7 @@ msgstr ""
 #. module: l10n_be_coda
 #: selection:coda.bank.statement.line,type:0
 msgid "Customer"
-msgstr ""
+msgstr "Клиент"
 
 #. module: l10n_be_coda
 #: code:addons/l10n_be_coda/wizard/account_coda_import.py:422
@@ -3723,7 +3723,7 @@ msgstr ""
 #. module: l10n_be_coda
 #: field:coda.bank.statement.line,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Последовательность"
 
 #. module: l10n_be_coda
 #: view:account.coda.import:0
