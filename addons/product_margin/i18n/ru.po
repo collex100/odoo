@@ -70,12 +70,12 @@ msgstr "Цена по каталогу"
 #. module: product_margin
 #: field:product.margin,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: product_margin
 #: field:product.margin,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: product_margin
 #: selection:product.margin,invoice_state:0
@@ -126,7 +126,7 @@ msgstr "Общая информация"
 #. module: product_margin
 #: field:product.margin,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: product_margin
 #: field:product.margin,invoice_state:0
@@ -137,12 +137,12 @@ msgstr "Состояние счёта"
 #. module: product_margin
 #: field:product.margin,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: product_margin
 #: field:product.margin,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: product_margin
 #: field:product.product,date_from:0
