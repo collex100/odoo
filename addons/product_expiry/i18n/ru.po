@@ -81,7 +81,7 @@ msgstr "Время удаления продукта"
 #. module: product_expiry
 #: model:ir.model,name:product_expiry.model_product_template
 msgid "Product Template"
-msgstr ""
+msgstr "Шаблон продукта"
 
 #. module: product_expiry
 #: field:product.template,use_time:0
