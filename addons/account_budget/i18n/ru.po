@@ -212,7 +212,7 @@ msgstr "Подтверждено"
 #: field:crossovered.budget,create_uid:0
 #: field:crossovered.budget.lines,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: account_budget
 #: field:account.budget.analytic,create_date:0
@@ -223,7 +223,7 @@ msgstr ""
 #: field:crossovered.budget,create_date:0
 #: field:crossovered.budget.lines,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Создан"
 
 #. module: account_budget
 #: view:website:account_budget.report_analyticaccountbudget
@@ -297,7 +297,7 @@ msgstr "Ошибка !"
 #: field:report.account_budget.report_budget,id:0
 #: field:report.account_budget.report_crossoveredbudget,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: account_budget
 #: field:account.budget.analytic,write_uid:0
@@ -308,7 +308,7 @@ msgstr ""
 #: field:crossovered.budget,write_uid:0
 #: field:crossovered.budget.lines,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: account_budget
 #: field:account.budget.analytic,write_date:0
@@ -319,7 +319,7 @@ msgstr ""
 #: field:crossovered.budget,write_date:0
 #: field:crossovered.budget.lines,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последний раз обновлено"
 
 #. module: account_budget
 #: field:account.budget.post,name:0
