@@ -36,7 +36,7 @@ msgstr "Создан"
 #: code:addons/pad/pad.py:50
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Ошибка"
 
 #. module: pad
 #: help:res.company,pad_key:0
