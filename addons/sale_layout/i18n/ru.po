@@ -137,7 +137,7 @@ msgstr ""
 #: view:sale_layout.category:sale_layout.report_configuration_search_view
 #: field:sale_layout.category,name:0
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #. module: sale_layout
 #: view:website:sale.report_saleorder_document
@@ -181,7 +181,7 @@ msgstr ""
 #: field:account.invoice.line,sale_layout_cat_id:0
 #: field:sale.order.line,sale_layout_cat_id:0
 msgid "Section"
-msgstr ""
+msgstr "Раздел"
 
 #. module: sale_layout
 #: view:sale_layout.category:sale_layout.report_configuration_search_view
