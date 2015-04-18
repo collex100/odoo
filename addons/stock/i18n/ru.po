@@ -822,7 +822,7 @@ msgstr ""
 #: code:addons/stock/static/src/xml/picking.xml:66
 #, python-format
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 #. module: stock
 #: field:stock.incoterms,code:0
@@ -1303,7 +1303,7 @@ msgstr ""
 #. module: stock
 #: view:stock.picking.type:stock.stock_picking_type_kanban
 msgid "Delete"
-msgstr ""
+msgstr "Удалить"
 
 #. module: stock
 #: code:addons/stock/product.py:259
@@ -1453,7 +1453,7 @@ msgstr ""
 #. module: stock
 #: view:stock.picking.type:stock.stock_picking_type_kanban
 msgid "Edit..."
-msgstr ""
+msgstr "Изменить..."
 
 #. module: stock
 #: code:addons/stock/wizard/stock_transfer_details.py:115
@@ -2654,7 +2654,7 @@ msgstr ""
 #. module: stock
 #: view:stock.warehouse.orderpoint:stock.view_warehouse_orderpoint_form
 msgid "Misc"
-msgstr ""
+msgstr "Прочее"
 
 #. module: stock
 #: field:stock.move.operation.link,move_id:0
@@ -2836,7 +2836,7 @@ msgstr "Неевропейские заказчики"
 #: selection:stock.move,priority:0
 #: selection:stock.picking,priority:0
 msgid "Normal"
-msgstr ""
+msgstr "Нормальный"
 
 #. module: stock
 #: selection:stock.move,priority:0
@@ -3367,7 +3367,7 @@ msgstr ""
 #. module: stock
 #: field:make.procurement,date_planned:0
 msgid "Planned Date"
-msgstr ""
+msgstr "Планируемая Дата"
 
 #. module: stock
 #: code:addons/stock/stock.py:2355
@@ -4313,7 +4313,7 @@ msgstr "Брак"
 #: code:addons/stock/static/src/xml/picking.xml:215
 #, python-format
 msgid "Search"
-msgstr ""
+msgstr "Искать"
 
 #. module: stock
 #: view:stock.inventory:stock.view_inventory_filter
