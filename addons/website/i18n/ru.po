@@ -560,7 +560,7 @@ msgstr ""
 #: code:addons/website/static/src/xml/website.xml:43
 #, python-format
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 #. module: website
 #. openerp-web
@@ -847,7 +847,7 @@ msgstr "Описание"
 #: code:addons/website/static/src/xml/website.seo.xml:120
 #, python-format
 msgid "Description..."
-msgstr ""
+msgstr "Описание ..."
 
 #. module: website
 #. openerp-web
@@ -1016,7 +1016,7 @@ msgstr ""
 #. module: website
 #: view:website:website.http_error_debug
 msgid "Error"
-msgstr ""
+msgstr "Ошибка"
 
 #. module: website
 #: view:website:website.http_error_debug
@@ -2028,7 +2028,7 @@ msgstr ""
 #. module: website
 #: view:website:website.snippets
 msgid "References"
-msgstr ""
+msgstr "Ссылки"
 
 #. module: website
 #. openerp-web
@@ -2531,7 +2531,7 @@ msgstr ""
 #: view:website:website.snippets
 #, python-format
 msgid "Title"
-msgstr ""
+msgstr "Обращение"
 
 #. module: website
 #: view:website:website.snippets
@@ -3184,7 +3184,7 @@ msgstr ""
 #. module: website
 #: field:website.converter.test.sub,name:0
 msgid "unknown"
-msgstr ""
+msgstr "неизвестный"
 
 #. module: website
 #. openerp-web
