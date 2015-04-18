@@ -500,7 +500,7 @@ msgstr ""
 #. module: hr_evaluation
 #: field:hr.evaluation.report,closed:0
 msgid "Close Date"
-msgstr ""
+msgstr "Дата закрытия"
 
 #. module: hr_evaluation
 #: model:survey.label,value:hr_evaluation.arow_3_1_9
@@ -557,7 +557,7 @@ msgstr "Создан"
 #. module: hr_evaluation
 #: view:hr.evaluation.report:hr_evaluation.view_evaluation_report_search
 msgid "Creation Month"
-msgstr ""
+msgstr "Месяц создания"
 
 #. module: hr_evaluation
 #: model:survey.label,value:hr_evaluation.arow_3_1_14
@@ -1070,7 +1070,7 @@ msgstr ""
 #. module: hr_evaluation
 #: model:survey.question,question:hr_evaluation.appraisal_1_1
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #. module: hr_evaluation
 #: model:survey.question,question:hr_evaluation.opinion_1_1
@@ -1080,7 +1080,7 @@ msgstr ""
 #. module: hr_evaluation
 #: selection:hr_evaluation.evaluation,state:0
 msgid "New"
-msgstr ""
+msgstr "Создать"
 
 #. module: hr_evaluation
 #: field:hr.employee,evaluation_date:0
@@ -1124,7 +1124,7 @@ msgstr "Просрочено"
 #. module: hr_evaluation
 #: view:hr_evaluation.evaluation:hr_evaluation.evaluation_search
 msgid "Pending"
-msgstr ""
+msgstr "В ожидании"
 
 #. module: hr_evaluation
 #: model:ir.ui.menu,name:hr_evaluation.menu_eval_hr_config
@@ -1331,7 +1331,7 @@ msgstr "Статус"
 #: field:hr_evaluation.plan.phase,email_subject:0
 #: model:survey.question,question:hr_evaluation.appraisal_3_1
 msgid "Subject"
-msgstr ""
+msgstr "Тема"
 
 #. module: hr_evaluation
 #: field:hr.evaluation.interview,message_summary:0
