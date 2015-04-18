@@ -982,7 +982,7 @@ msgstr "Непрочитанные сообщения"
 #. module: hr
 #: field:hr.job,write_date:0
 msgid "Update Date"
-msgstr ""
+msgstr "Дата изменения"
 
 #. module: hr
 #: model:ir.model,name:hr.model_res_users
