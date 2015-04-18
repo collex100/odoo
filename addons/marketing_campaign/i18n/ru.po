@@ -347,7 +347,7 @@ msgstr "Черновик"
 #. module: marketing_campaign
 #: selection:marketing.campaign.activity,type:0
 msgid "Email"
-msgstr ""
+msgstr "Эл. почта"
 
 #. module: marketing_campaign
 #: code:addons/marketing_campaign/marketing_campaign.py:774
@@ -658,7 +658,7 @@ msgstr "Название"
 #: selection:marketing.campaign,state:0
 #: selection:marketing.campaign.segment,state:0
 msgid "New"
-msgstr ""
+msgstr "Создать"
 
 #. module: marketing_campaign
 #: view:marketing.campaign.segment:marketing_campaign.view_marketing_campaign_segment_search
