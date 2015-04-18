@@ -1126,7 +1126,7 @@ msgstr "Название"
 #: view:event.registration:event.view_registration_search
 #: view:report.event.registration:event.view_report_event_registration_search
 msgid "New"
-msgstr ""
+msgstr "Создать"
 
 #. module: event
 #: model:mail.message.subtype,name:event.mt_event_registration
@@ -1470,7 +1470,7 @@ msgstr ""
 #: field:event.registration,user_id:0
 #: model:res.groups,name:event.group_event_user
 msgid "User"
-msgstr ""
+msgstr "Пользователь"
 
 #. module: event
 #: view:event.confirm:event.view_event_confirm
