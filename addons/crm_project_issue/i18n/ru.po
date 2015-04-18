@@ -29,7 +29,7 @@ msgstr "Отменить"
 #. module: crm_project_issue
 #: view:crm.lead:crm_project_issue.crm_case_form_view_leads_project_issue
 msgid "Convert To"
-msgstr ""
+msgstr "Преобразовать в"
 
 #. module: crm_project_issue
 #: view:crm.lead:crm_project_issue.crm_case_form_view_leads_project_issue
@@ -46,7 +46,7 @@ msgstr ""
 #. module: crm_project_issue
 #: selection:crm.lead2projectissue.wizard,action:0
 msgid "Create a new customer"
-msgstr ""
+msgstr "Создание нового клиента"
 
 #. module: crm_project_issue
 #: field:crm.lead2projectissue.wizard,create_uid:0
@@ -66,12 +66,12 @@ msgstr "Клиент"
 #. module: crm_project_issue
 #: selection:crm.lead2projectissue.wizard,action:0
 msgid "Do not link to a customer"
-msgstr ""
+msgstr "Не ссылается на клиента"
 
 #. module: crm_project_issue
 #: model:ir.model,name:crm_project_issue.model_crm_lead2projectissue_wizard
 msgid "Handle partner binding or generation in CRM wizards."
-msgstr ""
+msgstr "Обработка партнера связывания или образования в CRM мастером."
 
 #. module: crm_project_issue
 #: field:crm.lead2projectissue.wizard,id:0
@@ -96,12 +96,12 @@ msgstr "Последний раз обновлено"
 #. module: crm_project_issue
 #: field:crm.lead2projectissue.wizard,lead_id:0
 msgid "Lead"
-msgstr ""
+msgstr "Кандидат"
 
 #. module: crm_project_issue
 #: selection:crm.lead2projectissue.wizard,action:0
 msgid "Link to an existing customer"
-msgstr ""
+msgstr "Ссылка на существующих клиентов"
 
 #. module: crm_project_issue
 #: field:crm.lead2projectissue.wizard,project_id:0
@@ -111,4 +111,4 @@ msgstr "Проект"
 #. module: crm_project_issue
 #: field:crm.lead2projectissue.wizard,action:0
 msgid "Related Customer"
-msgstr ""
+msgstr "Связанные с клиентами"
