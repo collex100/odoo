@@ -200,7 +200,7 @@ msgstr ""
 #: view:report.timesheet.task.user:project_timesheet.view_report_timesheet_task_user_search
 #: field:report.timesheet.task.user,month:0
 msgid "Month"
-msgstr ""
+msgstr "Месяц"
 
 #. module: project_timesheet
 #: selection:report.timesheet.task.user,month:0
@@ -312,7 +312,7 @@ msgstr ""
 #: view:report.timesheet.task.user:project_timesheet.view_report_timesheet_task_user_search
 #: field:report.timesheet.task.user,user_id:0
 msgid "User"
-msgstr ""
+msgstr "Пользователь"
 
 #. module: project_timesheet
 #: view:report.timesheet.task.user:project_timesheet.view_report_timesheet_task_user_search
