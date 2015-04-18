@@ -1921,4 +1921,4 @@ msgstr "неизв."
 #~ msgstr "№ задачи"
 
 #~ msgid "Users"
-#~ msgstr "Исполнитель"
+#~ msgstr "Пользователи"
