@@ -701,7 +701,7 @@ msgstr "Модель"
 #. module: base_import
 #: field:base_import.tests.models.preview,name:0
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #. module: base_import
 #. openerp-web
@@ -1208,7 +1208,7 @@ msgstr ""
 #: field:base_import.tests.models.o2m.child,parent_id:0
 #: field:base_import.tests.models.o2m.child,value:0
 msgid "unknown"
-msgstr ""
+msgstr "неизвестный"
 
 #. module: base_import
 #. openerp-web
