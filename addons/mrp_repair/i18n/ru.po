@@ -258,7 +258,7 @@ msgstr "Ошибка!"
 #. module: mrp_repair
 #: view:mrp.repair:mrp_repair.view_repair_order_form
 msgid "Extra Info"
-msgstr ""
+msgstr "Доп. инфо."
 
 #. module: mrp_repair
 #: view:mrp.repair:mrp_repair.view_repair_order_form
@@ -332,7 +332,7 @@ msgstr "Если проверенные новые сообщения требу
 #. module: mrp_repair
 #: field:mrp.repair,internal_notes:0
 msgid "Internal Notes"
-msgstr ""
+msgstr "Внутренние примечания"
 
 #. module: mrp_repair
 #: field:mrp.repair.line,move_id:0
@@ -501,7 +501,7 @@ msgstr ""
 #. module: mrp_repair
 #: view:mrp.repair:mrp_repair.view_repair_order_form
 msgid "Notes"
-msgstr ""
+msgstr "Заметки"
 
 #. module: mrp_repair
 #: view:website:mrp_repair.report_mrprepairorder
@@ -839,7 +839,7 @@ msgstr ""
 #. module: mrp_repair
 #: field:mrp.repair.line,type:0
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #. module: mrp_repair
 #: selection:mrp.repair,state:0
@@ -930,4 +930,4 @@ msgstr ""
 #. module: mrp_repair
 #: field:mrp.repair,default_address_id:0
 msgid "unknown"
-msgstr ""
+msgstr "неизвестно"
