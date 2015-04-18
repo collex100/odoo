@@ -80,4 +80,4 @@ msgstr "Использование"
 #: field:decimal.precision.test,float_2:0
 #: field:decimal.precision.test,float_4:0
 msgid "unknown"
-msgstr ""
+msgstr "неизвестный"
