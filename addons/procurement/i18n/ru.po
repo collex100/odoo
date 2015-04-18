@@ -71,7 +71,7 @@ msgstr ""
 #. module: procurement
 #: field:procurement.rule,action:0
 msgid "Action"
-msgstr ""
+msgstr "Действие"
 
 #. module: procurement
 #: field:procurement.rule,active:0
@@ -453,7 +453,7 @@ msgstr ""
 #. module: procurement
 #: field:procurement.group,name:0
 msgid "Reference"
-msgstr ""
+msgstr "Ссылка"
 
 #. module: procurement
 #: help:procurement.order,origin:0
