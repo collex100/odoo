@@ -226,7 +226,7 @@ msgstr "Если проверенные новые сообщения требу
 #. module: stock_landed_costs
 #: view:product.product:stock_landed_costs.view_stock_landed_cost_type_form
 msgid "Information"
-msgstr ""
+msgstr "Информация"
 
 #. module: stock_landed_costs
 #: field:stock.landed.cost,message_is_follower:0
@@ -302,13 +302,13 @@ msgstr "Сообщения и журнал обращений"
 #. module: stock_landed_costs
 #: view:stock.landed.cost:stock_landed_costs.view_stock_landed_cost_search
 msgid "Month"
-msgstr ""
+msgstr "Месяц"
 
 #. module: stock_landed_costs
 #: view:stock.landed.cost:stock_landed_costs.view_stock_landed_cost_search
 #: field:stock.landed.cost,name:0
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #. module: stock_landed_costs
 #: field:stock.landed.cost,picking_ids:0
@@ -362,7 +362,7 @@ msgstr ""
 #. module: stock_landed_costs
 #: field:stock.landed.cost,state:0
 msgid "State"
-msgstr ""
+msgstr "Состояние"
 
 #. module: stock_landed_costs
 #: view:stock.landed.cost:stock_landed_costs.view_stock_landed_cost_search
