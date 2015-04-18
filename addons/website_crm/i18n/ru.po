@@ -31,7 +31,7 @@ msgstr ""
 #. module: website_crm
 #: view:website:website.contactus
 msgid "Email"
-msgstr ""
+msgstr "Эл. почта"
 
 #. module: website_crm
 #: code:addons/website_crm/controllers/main.py:93
@@ -57,7 +57,7 @@ msgstr ""
 #. module: website_crm
 #: view:website:website.contactus
 msgid "Subject"
-msgstr ""
+msgstr "Тема"
 
 #. module: website_crm
 #: view:website:website_crm.contactus_thanks
