@@ -1188,7 +1188,7 @@ msgstr ""
 #. module: calendar
 #: view:calendar.event:calendar.view_calendar_event_search
 msgid "Meeting"
-msgstr ""
+msgstr "Встреча"
 
 #. module: calendar
 #: view:calendar.event:calendar.view_calendar_event_form
@@ -1226,7 +1226,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:calendar.action_calendar_event
 #: model:ir.actions.act_window,name:calendar.action_calendar_event_notify
 msgid "Meetings"
-msgstr ""
+msgstr "Встречи"
 
 #. module: calendar
 #: model:ir.model,name:calendar.model_mail_message
@@ -1251,7 +1251,7 @@ msgstr "Минут(ы)"
 #. module: calendar
 #: view:calendar.event:calendar.view_calendar_event_form
 msgid "Misc"
-msgstr ""
+msgstr "Прочее"
 
 #. module: calendar
 #: model:ir.model,name:calendar.model_ir_model
@@ -1587,7 +1587,7 @@ msgstr "Вторник"
 #. module: calendar
 #: field:calendar.alarm,type:0
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #. module: calendar
 #: selection:calendar.attendee,state:0
