@@ -246,7 +246,7 @@ msgstr ""
 #. module: hr_timesheet
 #: view:hr.timesheet.report:hr_timesheet.view_hr_timesheet_report_search
 msgid "Extended Filters..."
-msgstr ""
+msgstr "Расширенные фильтры..."
 
 #. module: hr_timesheet
 #: field:hr.timesheet.report,general_account_id:0
