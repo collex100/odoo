@@ -74,7 +74,7 @@ msgstr ""
 #. module: google_drive
 #: field:google.drive.config,active:0
 msgid "Active"
-msgstr ""
+msgstr "Активен"
 
 #. module: google_drive
 #: code:addons/google_drive/google_drive.py:49
