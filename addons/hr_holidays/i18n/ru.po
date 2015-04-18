@@ -191,7 +191,7 @@ msgstr "Отменено"
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.view_hr_holidays_filter
 msgid "Category"
-msgstr ""
+msgstr "Категория"
 
 #. module: hr_holidays
 #: help:hr.holidays,category_id:0
@@ -287,7 +287,7 @@ msgstr ""
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.edit_holiday_new
 msgid "Duration"
-msgstr ""
+msgstr "Длительность"
 
 #. module: hr_holidays
 #: view:hr.employee:hr_holidays.hr_holidays_leaves_assign_tree_view
@@ -622,7 +622,7 @@ msgstr ""
 #. module: hr_holidays
 #: field:hr.holidays,meeting_id:0
 msgid "Meeting"
-msgstr ""
+msgstr "Встреча"
 
 #. module: hr_holidays
 #: field:hr.holidays.status,categ_id:0
@@ -642,7 +642,7 @@ msgstr "Сообщения и журнал обращений"
 #. module: hr_holidays
 #: view:hr.holidays.status:hr_holidays.edit_holiday_status_form
 msgid "Misc"
-msgstr ""
+msgstr "Прочее"
 
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.edit_holiday_new
@@ -653,7 +653,7 @@ msgstr ""
 #. module: hr_holidays
 #: xsl:holidays.summary:0
 msgid "Month"
-msgstr ""
+msgstr "Месяц"
 
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.view_hr_holidays_filter
@@ -673,7 +673,7 @@ msgstr ""
 #. module: hr_holidays
 #: selection:hr.employee,current_leave_state:0
 msgid "New"
-msgstr ""
+msgstr "Создать"
 
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.view_holiday
@@ -970,7 +970,7 @@ msgstr ""
 #. module: hr_holidays
 #: view:hr.holidays:hr_holidays.view_hr_holidays_filter
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #. module: hr_holidays
 #: model:hr.holidays.status,name:hr_holidays.holiday_status_unpaid
@@ -1107,4 +1107,4 @@ msgstr ""
 #. module: hr_holidays
 #: field:hr.holidays,can_reset:0
 msgid "unknown"
-msgstr ""
+msgstr "неизвестный"
