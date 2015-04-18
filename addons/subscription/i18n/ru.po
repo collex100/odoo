@@ -152,7 +152,7 @@ msgstr ""
 #: view:subscription.subscription:subscription.view_subscription_form
 #: field:subscription.subscription,notes:0
 msgid "Internal Notes"
-msgstr ""
+msgstr "Внутренние примечания"
 
 #. module: subscription
 #: field:subscription.subscription,interval_number:0
