@@ -149,7 +149,7 @@ msgstr "В километрах"
 #. module: hr_contract
 #: view:hr.contract:hr_contract.hr_contract_view_form
 msgid "Information"
-msgstr ""
+msgstr "Информация"
 
 #. module: hr_contract
 #: field:hr.employee,manager:0
