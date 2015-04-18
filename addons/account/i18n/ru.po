@@ -2377,7 +2377,7 @@ msgstr "Позиции кассы"
 #. module: account
 #: view:product.template:account.product_template_search_view
 msgid "Category"
-msgstr ""
+msgstr "Категория"
 
 #. module: account
 #: view:account.invoice:account.view_account_invoice_filter
