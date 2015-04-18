@@ -559,7 +559,7 @@ msgstr "Название/Дата"
 #: selection:lunch.order,state:0
 #: selection:lunch.order.line,state:0
 msgid "New"
-msgstr ""
+msgstr "Создать"
 
 #. module: lunch
 #: model:ir.actions.act_window,name:lunch.action_lunch_order_form
@@ -576,7 +576,7 @@ msgstr ""
 #: field:lunch.order.line,note:0
 #: field:report.lunch.order.line,note:0
 msgid "Note"
-msgstr ""
+msgstr "Заметка"
 
 #. module: lunch
 #: selection:report.lunch.order.line,month:0
@@ -757,7 +757,7 @@ msgstr ""
 #: view:lunch.alert:lunch.alert_search_view
 #: view:lunch.order.line:lunch.lunch_order_line_search_view
 msgid "Search"
-msgstr ""
+msgstr "Искать"
 
 #. module: lunch
 #: code:addons/lunch/lunch.py:193
@@ -973,7 +973,7 @@ msgstr ""
 #. module: lunch
 #: field:lunch.order.line,name:0
 msgid "unknown"
-msgstr ""
+msgstr "неизвестный"
 
 #. module: lunch
 #: view:lunch.validation:lunch.validate_order_lines_view
