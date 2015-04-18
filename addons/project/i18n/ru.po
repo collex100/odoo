@@ -708,7 +708,7 @@ msgstr "Поддержка"
 #: selection:project.task,priority:0
 #: selection:report.project.task.user,priority:0
 msgid "High"
-msgstr ""
+msgstr "Высокая"
 
 #. module: project
 #: model:ir.model,name:project.model_project_task_history
@@ -1782,7 +1782,7 @@ msgstr "Отслеживание проблем и ошибок"
 #: view:project.task:project.view_task_search_form
 #: view:report.project.task.user:project.view_task_project_user_search
 msgid "Unassigned"
-msgstr ""
+msgstr "Не назначено"
 
 #. module: project
 #: view:project.task.history.cumulative:project.view_task_history_search
@@ -1903,7 +1903,7 @@ msgstr "_Назначить"
 #. module: project
 #: view:project.task:project.view_task_kanban
 msgid "oe_kanban_text_red"
-msgstr ""
+msgstr "oe_kanban_text_red"
 
 #. module: project
 #: code:addons/project/project.py:878
