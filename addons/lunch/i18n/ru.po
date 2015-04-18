@@ -864,7 +864,7 @@ msgstr "Имя пользователя"
 #. module: lunch
 #: view:lunch.order:lunch.view_search_my_order
 msgid "Users"
-msgstr ""
+msgstr "Пользователи"
 
 #. module: lunch
 #: field:lunch.alert,wednesday:0
