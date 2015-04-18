@@ -2298,7 +2298,7 @@ msgstr "Меньше, чем базовая единица измерения"
 #: model:product.category,name:product.product_category_9
 #: model:product.public.category,name:product.Software
 msgid "Software"
-msgstr ""
+msgstr "Программы"
 
 #. module: product
 #: model:product.public.category,name:product.Speakers
@@ -2778,7 +2778,7 @@ msgstr ""
 #. module: product
 #: field:product.attribute.value,name:0
 msgid "Value"
-msgstr ""
+msgstr "Значение"
 
 #. module: product
 #: field:product.attribute,value_ids:0
