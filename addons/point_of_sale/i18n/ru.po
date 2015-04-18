@@ -270,7 +270,7 @@ msgstr ""
 #: view:pos.config:point_of_sale.view_pos_config_search
 #: selection:pos.config,state:0
 msgid "Active"
-msgstr ""
+msgstr "Активен"
 
 #. module: point_of_sale
 #: model:ir.model,name:point_of_sale.model_pos_discount
@@ -283,7 +283,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/xml/pos.xml:450
 #, python-format
 msgid "Address"
-msgstr ""
+msgstr "Адрес"
 
 #. module: point_of_sale
 #. openerp-web
@@ -690,7 +690,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/xml/pos.xml:321
 #, python-format
 msgid "City"
-msgstr ""
+msgstr "Город"
 
 #. module: point_of_sale
 #: view:pos.session.opening:point_of_sale.pos_session_opening_form_view
@@ -726,7 +726,7 @@ msgstr ""
 #: view:account.bank.statement:point_of_sale.view_pos_confirm_cash_statement_filter
 #: selection:report.pos.order,state:0
 msgid "Closed"
-msgstr ""
+msgstr "Закрыто"
 
 #. module: point_of_sale
 #: code:addons/point_of_sale/point_of_sale.py:125
@@ -917,7 +917,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/xml/pos.xml:328
 #, python-format
 msgid "Country"
-msgstr ""
+msgstr "Страна"
 
 #. module: point_of_sale
 #: field:pos.category,create_uid:0
@@ -1301,7 +1301,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/xml/pos.xml:376
 #, python-format
 msgid "Email"
-msgstr ""
+msgstr "Эл. почта"
 
 #. module: point_of_sale
 #: help:pos.config,iface_scan_via_proxy:0
@@ -1362,7 +1362,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/js/screens.js:326
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Ошибка"
 
 #. module: point_of_sale
 #: constraint:pos.category:0
@@ -1424,7 +1424,7 @@ msgstr ""
 #. module: point_of_sale
 #: view:pos.order:point_of_sale.view_pos_pos_form
 msgid "Extra Info"
-msgstr ""
+msgstr "Доп. информация"
 
 #. module: point_of_sale
 #: model:product.template,name:point_of_sale.fanta_orange_25cl_product_template
@@ -1684,7 +1684,7 @@ msgstr ""
 #. module: point_of_sale
 #: field:pos.order,note:0
 msgid "Internal Notes"
-msgstr ""
+msgstr "Внутренние примечания"
 
 #. module: point_of_sale
 #. openerp-web
@@ -1995,7 +1995,7 @@ msgstr ""
 #: view:website:point_of_sale.report_statement
 #, python-format
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #. module: point_of_sale
 #: field:report.transaction.pos,invoice_id:0
@@ -2012,7 +2012,7 @@ msgstr ""
 #: selection:pos.order,state:0
 #: selection:report.pos.order,state:0
 msgid "New"
-msgstr ""
+msgstr "Создать"
 
 #. module: point_of_sale
 #: view:pos.session.opening:point_of_sale.pos_session_opening_form_view
@@ -2192,7 +2192,7 @@ msgstr ""
 #: view:website:point_of_sale.report_sessionsummary
 #: view:website:point_of_sale.report_statement
 msgid "Opening Date"
-msgstr ""
+msgstr "Дата открытия"
 
 #. module: point_of_sale
 #: view:pos.session:point_of_sale.view_pos_session_form
@@ -2425,7 +2425,7 @@ msgstr ""
 #: field:pos.make.payment,journal_id:0
 #: view:website:point_of_sale.report_receipt
 msgid "Payment Mode"
-msgstr ""
+msgstr "Способ оплаты"
 
 #. module: point_of_sale
 #: field:pos.make.payment,payment_name:0
@@ -2522,7 +2522,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/xml/pos.xml:451
 #, python-format
 msgid "Phone"
-msgstr ""
+msgstr "Телефон"
 
 #. module: point_of_sale
 #. openerp-web
@@ -2933,7 +2933,7 @@ msgstr ""
 #: view:website:point_of_sale.report_sessionsummary
 #, python-format
 msgid "Reference"
-msgstr ""
+msgstr "Ссылка"
 
 #. module: point_of_sale
 #. openerp-web
@@ -2959,7 +2959,7 @@ msgstr ""
 #: field:pos.session,user_id:0
 #: view:website:point_of_sale.report_sessionsummary
 msgid "Responsible"
-msgstr ""
+msgstr "Ответственный"
 
 #. module: point_of_sale
 #: view:pos.session.opening:point_of_sale.pos_session_opening_form_view
@@ -3429,7 +3429,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/xml/pos.xml:317
 #, python-format
 msgid "Street"
-msgstr ""
+msgstr "Улица"
 
 #. module: point_of_sale
 #: model:product.template,name:point_of_sale.limon_product_template
@@ -4181,7 +4181,7 @@ msgstr ""
 #: code:addons/point_of_sale/static/src/xml/pos.xml:325
 #, python-format
 msgid "ZIP"
-msgstr ""
+msgstr "индекс"
 
 #. module: point_of_sale
 #: model:product.template,name:point_of_sale.courgette_product_template
