@@ -68,7 +68,7 @@ msgstr "Авто удаление"
 #. module: email_template
 #: view:res.partner:email_template.res_partner_opt_out_search
 msgid "Available for mass mailing"
-msgstr ""
+msgstr "Доступно для массовой рассылки"
 
 #. module: email_template
 #: field:email.template,body_html:0 field:email_template.preview,body_html:0
@@ -824,7 +824,7 @@ msgstr "Активируется по умолчанию при подписке
 #. module: mail
 #: view:mail.alias:mail.view_mail_alias_search
 msgid "Active"
-msgstr ""
+msgstr "Активен"
 
 #. module: mail
 #: field:mail.compose.message,active_domain:0
@@ -2143,7 +2143,7 @@ msgstr "Отправить"
 #. module: mail
 #: field:mail.wizard.invite,send_mail:0
 msgid "Send Email"
-msgstr ""
+msgstr "Отправить письмо"
 
 #. module: mail
 #: view:mail.mail:mail.view_mail_form view:mail.mail:mail.view_mail_tree
