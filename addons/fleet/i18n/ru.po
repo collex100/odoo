@@ -358,7 +358,7 @@ msgstr ""
 #. module: fleet
 #: field:fleet.service.type,category:0
 msgid "Category"
-msgstr ""
+msgstr "Категория"
 
 #. module: fleet
 #: field:fleet.vehicle.cost,cost_type:0
@@ -1166,7 +1166,7 @@ msgstr ""
 #. module: fleet
 #: view:fleet.vehicle.cost:fleet.fleet_vehicle_costs_search
 msgid "Month"
-msgstr ""
+msgstr "Месяц"
 
 #. module: fleet
 #: selection:fleet.vehicle.log.contract,cost_frequency:0
@@ -1183,7 +1183,7 @@ msgstr "Ежемесячно"
 #: field:fleet.vehicle.state,name:0
 #: field:fleet.vehicle.tag,name:0
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #. module: fleet
 #: field:fleet.vehicle,contract_renewal_name:0
@@ -1308,7 +1308,7 @@ msgstr ""
 #. module: fleet
 #: selection:fleet.vehicle.cost,cost_type:0
 msgid "Other"
-msgstr ""
+msgstr "Другое"
 
 #. module: fleet
 #: model:fleet.service.type,name:fleet.type_service_33
@@ -1568,7 +1568,7 @@ msgstr ""
 #: field:fleet.vehicle,state_id:0
 #: view:fleet.vehicle.state:fleet.fleet_vehicle_state_tree
 msgid "State"
-msgstr ""
+msgstr "Состояние"
 
 #. module: fleet
 #: sql_constraint:fleet.vehicle.state:0
