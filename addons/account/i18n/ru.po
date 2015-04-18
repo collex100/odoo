@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: openobject-addons\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-23 16:27+0000\n"
-"PO-Revision-Date: 2015-04-18 15:33+0200\n"
-"Last-Translator: collex <manyatovskiy@gmail.com>\n"
+"PO-Revision-Date: 2015-04-18 15:37+0200\n"
+"Last-Translator: Roman Bulakh <bulah.roman@gmail.com>\n"
 "Language-Team: Russian <http://translation.pandaplus.biz/projects/odoo-"
 "80_ru/account/ru/>\n"
 "Language: ru\n"
@@ -145,8 +145,9 @@ msgstr "# Проводок"
 
 #. module: account
 #: field:account.invoice.report,nbr:0
+#, fuzzy
 msgid "# of Invoices"
-msgstr ""
+msgstr "# запросов"
 
 #. module: account
 #: field:account.entries.report,nbr:0
