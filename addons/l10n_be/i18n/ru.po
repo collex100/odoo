@@ -250,7 +250,7 @@ msgstr ""
 #. module: l10n_be
 #: field:partner.vat.intra,mand_id:0
 msgid "Reference"
-msgstr ""
+msgstr "Ссылка"
 
 #. module: l10n_be
 #: help:partner.vat.intra,period_code:0
@@ -691,7 +691,7 @@ msgstr ""
 #: code:addons/l10n_be/wizard/l10n_be_partner_vat_listing.py:69
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Ошибка"
 
 #. module: l10n_be
 #: model:account.financial.report,name:l10n_be.account_financial_report_capitalsouscrit3
