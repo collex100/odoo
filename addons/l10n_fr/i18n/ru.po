@@ -81,7 +81,7 @@ msgstr ""
 #: field:l10n.fr.line,name:0
 #: field:l10n.fr.report,name:0
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #. module: l10n_fr
 #: model:ir.actions.act_window,name:l10n_fr.action_account_cdr_report
