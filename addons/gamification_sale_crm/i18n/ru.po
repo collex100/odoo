@@ -35,7 +35,7 @@ msgstr ""
 #. module: gamification_sale_crm
 #: model:gamification.goal.definition,name:gamification_sale_crm.definition_crm_nbr_call
 msgid "Logged Calls"
-msgstr ""
+msgstr "Описанные звонки"
 
 #. module: gamification_sale_crm
 #: model:gamification.challenge,name:gamification_sale_crm.challenge_crm_sale
