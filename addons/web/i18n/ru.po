@@ -1049,7 +1049,7 @@ msgstr "Редактировать процесс"
 #. module: web
 #: view:website:web.login
 msgid "Email"
-msgstr ""
+msgstr "Эл. почта"
 
 #. module: web
 #. openerp-web
@@ -1077,7 +1077,7 @@ msgstr "Удалить текущую дату"
 #: code:addons/web/static/src/js/search.js:1870
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Ошибка"
 
 #. module: web
 #: code:addons/web/controllers/main.py:760
