@@ -680,7 +680,7 @@ msgstr ""
 #: view:blog.post:website_blog.view_blog_post_form
 #: field:blog.tag,name:0
 msgid "Name"
-msgstr ""
+msgstr "Название"
 
 #. module: website_blog
 #. openerp-web
@@ -927,7 +927,7 @@ msgstr ""
 #. module: website_blog
 #: field:blog.post,name:0
 msgid "Title"
-msgstr ""
+msgstr "Обращение"
 
 #. module: website_blog
 #: view:website:website_blog.blog_post_complete
