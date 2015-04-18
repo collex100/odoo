@@ -128,7 +128,7 @@ msgstr "Организация"
 #. module: membership
 #: view:res.partner:membership.view_partner_tree
 msgid "Contacts"
-msgstr ""
+msgstr "Контакты"
 
 #. module: membership
 #: field:membership.invoice,create_uid:0
