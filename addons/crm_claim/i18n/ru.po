@@ -708,7 +708,7 @@ msgid "Workload"
 msgstr ""
 
 #~ msgid "# of Cases"
-#~ msgstr "кол-во дел"
+#~ msgstr "кол-во вопросов"
 
 #~ msgid "My company"
 #~ msgstr "Моя компания"
