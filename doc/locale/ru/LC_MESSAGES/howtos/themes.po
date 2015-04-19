@@ -1,0 +1,420 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: odoo master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-19 19:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../howtos/themes.rst:5
+msgid "Building Themes"
+msgstr ""
+
+#: ../../howtos/themes.rst:8
+msgid "Basic set up"
+msgstr ""
+
+#: ../../howtos/themes.rst:10
+msgid ""
+"Create a basic theme module with :command:`odoo.py scaffold` and the "
+"``theme`` template: from the root Odoo folder, use"
+msgstr ""
+
+#: ../../howtos/themes.rst:17
+msgid ""
+"this should create a new folder ``dummy_theme`` in the ``addons`` directory "
+"with the structure:"
+msgstr ""
+
+#: ../../howtos/themes.rst:33
+msgid ""
+"``static/style`` contains your stylesheet(s), ``views`` contains the various"
+" XML files describing the theme and theme features to Odoo."
+msgstr ""
+
+#: ../../howtos/themes.rst:37
+msgid "Static Page"
+msgstr ""
+
+#: ../../howtos/themes.rst:40
+msgid "Creating a new template"
+msgstr ""
+
+#: ../../howtos/themes.rst:42
+msgid ""
+"Create a new file :file:`odoo/addons/theme_dummy/views/pages.xml` and open "
+"it."
+msgstr ""
+
+#: ../../howtos/themes.rst:44
+msgid ""
+"In odoo, a page means a new template. You don't need special skills, simply "
+"copy paste the lines::"
+msgstr ""
+
+#: ../../howtos/themes.rst:54
+msgid ""
+"Comment the lines about ``options.xml`` and ``pages.xml`` in "
+"``__openerp__.py``."
+msgstr ""
+
+#: ../../howtos/themes.rst:56
+msgid ""
+"Run the server and update the theme (``./odoo.py -u dummy_theme``), then "
+"install the theme in the settings menu."
+msgstr ""
+
+#: ../../howtos/themes.rst:59
+msgid "Go to ``http://localhost:8069/page/hello`` feel the hit."
+msgstr ""
+
+#: ../../howtos/themes.rst:62
+msgid "Editing content on a page"
+msgstr ""
+
+#: ../../howtos/themes.rst:64
+msgid ""
+"You can now add your content! You should always use the Bootstrap structure "
+"as below::"
+msgstr ""
+
+#: ../../howtos/themes.rst:84
+msgid "Adding new item in the menu"
+msgstr ""
+
+#: ../../howtos/themes.rst:86
+msgid "Adding these few more lines will put the new page in your menu::"
+msgstr ""
+
+#: ../../howtos/themes.rst:95
+msgid ""
+"Congrats! It's online! Now drag and drop some snippets on the page and let's"
+" style!"
+msgstr ""
+
+#: ../../howtos/themes.rst:99
+msgid "Pimp Your Theme"
+msgstr ""
+
+#: ../../howtos/themes.rst:102
+msgid "Easy styling with less"
+msgstr ""
+
+#: ../../howtos/themes.rst:104
+msgid ""
+"In ``odoo/addons/theme_dummy/static`` create a new folder and name it "
+"``style``. In the new folder ``odoo/addons/theme_dummy/static/style`` create"
+" a file and name it ``custom.less``. Open ``custom.less`` in the text editor"
+" and modify these lines as below:"
+msgstr ""
+
+#: ../../howtos/themes.rst:120
+msgid ""
+"Compile your file (http://lesscss.org/usage/#command-line-usage) to get the "
+"``custom.css`` file."
+msgstr ""
+
+#: ../../howtos/themes.rst:123
+msgid "Add this asset to your template in ``page.xml``::"
+msgstr ""
+
+#: ../../howtos/themes.rst:131
+msgid "Refresh the page and feel the hit."
+msgstr ""
+
+#: ../../howtos/themes.rst:134
+msgid "Get the most of the dom"
+msgstr ""
+
+#: ../../howtos/themes.rst:136
+msgid ""
+"Right-Click, inspect element. You can go deeper by styling the main layout "
+"container. Here we try with the 'wrapwrap' id."
+msgstr ""
+
+#: ../../howtos/themes.rst:148
+msgid "Easy layout with bootstrap"
+msgstr ""
+
+#: ../../howtos/themes.rst:150
+msgid ""
+"Open :file:`odoo/addons/theme_dummy/views/pages.xml` and add a new section::"
+msgstr ""
+
+#: ../../howtos/themes.rst:168
+msgid "Refresh the page and check how it looks."
+msgstr ""
+
+#: ../../howtos/themes.rst:170
+msgid ""
+"The background of the alert component is the default Bootstrap primary "
+"color. The two other div your created have no custom styles applied yet.  "
+"Open :file:`odoo/addons/theme_dummy/static/style/custom.less` and add these "
+"lines:"
+msgstr ""
+
+#: ../../howtos/themes.rst:185
+msgid ""
+"As you see, the default primary has changed and your new colors are shining!"
+msgstr ""
+
+#: ../../howtos/themes.rst:188
+msgid "Build Your First Snippet"
+msgstr ""
+
+#: ../../howtos/themes.rst:191
+msgid "Setting up __openerp__.py"
+msgstr ""
+
+#: ../../howtos/themes.rst:193
+msgid "Open ``__openerp__.py`` and add a new line as below:"
+msgstr ""
+
+#: ../../howtos/themes.rst:210
+msgid ""
+"In ``odoo/addons/theme_learn/views`` create a new xml file, name it "
+"``snippets.xml`` and open it in a text editor"
+msgstr ""
+
+#: ../../howtos/themes.rst:214
+msgid "Add your snippet in the menu"
+msgstr ""
+
+#: ../../howtos/themes.rst:216
+msgid ""
+"Before typing your html code, you need to locate it in the WEBb. drop-down "
+"menu.  In this case, we will add it at the end of the Structure section::"
+msgstr ""
+
+#: ../../howtos/themes.rst:224
+msgid ""
+"Now open a new div, do not give it any id or classes. It will contain your "
+"snippet::"
+msgstr ""
+
+#: ../../howtos/themes.rst:232
+msgid ""
+"A thumbnail is also needed to create a more attractive link in the menu. You"
+" can use labels to focus on your themes snippets.  Simply add a new div with"
+" the class ``oe_snippet_thumbnail`` and add your thumbnail image "
+"(100x79px)::"
+msgstr ""
+
+#: ../../howtos/themes.rst:245
+msgid ""
+"And voila! Your new snippet is now ready to use. Just drag and drop it on "
+"your page to see it in action."
+msgstr ""
+
+#: ../../howtos/themes.rst:249
+msgid "The snippet body"
+msgstr ""
+
+#: ../../howtos/themes.rst:251
+msgid ""
+"A snippet has to be in a section with the class ``oe_snippet_body`` to work "
+"correctly.  As Odoo use the Bootstrap framework, you have use containers and"
+" rows to hold your content. Please refer the the Bootstrap documentation::"
+msgstr ""
+
+#: ../../howtos/themes.rst:271
+msgid "Inside your fresh new row, add some bootstraped contents::"
+msgstr ""
+
+#: ../../howtos/themes.rst:281
+msgid "Adding images to your snippet"
+msgstr ""
+
+#: ../../howtos/themes.rst:283
+msgid ""
+"You can easely add images in your snippets simply by setting up css "
+"backgrounds images."
+msgstr ""
+
+#: ../../howtos/themes.rst:286
+msgid ""
+"Put your images in ``odoo/addons/theme_dummy/static/img``, or in sub-folders"
+" if needed. Open :file:`odoo/addons/theme_dummy/static/style/custom.less`, "
+"add these lines"
+msgstr ""
+
+#: ../../howtos/themes.rst:298
+msgid ""
+"Add also the ``width`` and the ``height`` css attributes to theses new "
+"classes."
+msgstr ""
+
+#: ../../howtos/themes.rst:300
+msgid ""
+"In :file:`odoo/addons/theme_dummy/views/pages.xml` change the correspondant "
+"lines as below::"
+msgstr ""
+
+#: ../../howtos/themes.rst:313
+msgid ""
+"Your new snippet is now ready to use. Just drag and drop it on your page to "
+"see it in action."
+msgstr ""
+
+#: ../../howtos/themes.rst:317
+msgid "Advanced Customization"
+msgstr ""
+
+#: ../../howtos/themes.rst:320
+msgid "Defining Your Theme Options"
+msgstr ""
+
+#: ../../howtos/themes.rst:323
+msgid "Understanding XPath"
+msgstr ""
+
+#: ../../howtos/themes.rst:325
+msgid ""
+"As your stylesheets are running on the whole website, giving more option to "
+"your snippets and applying them independently will push your design forward."
+" In ``odoo/addons/theme_dummy/views/`` create a new file, name it "
+"``options.xml`` and add these lines::"
+msgstr ""
+
+#: ../../howtos/themes.rst:336
+msgid "Explain xpath"
+msgstr ""
+
+#: ../../howtos/themes.rst:340
+msgid ""
+"Your option menu is now correctly set in the database, you can create an new"
+" dropdown menu."
+msgstr ""
+
+#: ../../howtos/themes.rst:343
+msgid ""
+"Let's say yout want three options which will change the text color and the "
+"background."
+msgstr ""
+
+#: ../../howtos/themes.rst:346
+msgid "In option.xml, add these lines inside the xpath::"
+msgstr ""
+
+#: ../../howtos/themes.rst:359
+msgid "Simple less css options"
+msgstr ""
+
+#: ../../howtos/themes.rst:361
+msgid ""
+"In order to see these options in action, you have to write some new css "
+"classes. Open custom.css and add this new lines"
+msgstr ""
+
+#: ../../howtos/themes.rst:373
+msgid ""
+"Refresh the page. Select a snippet and click Customize. Choose one of your "
+"new options apply it."
+msgstr ""
+
+#: ../../howtos/themes.rst:377
+msgid "XPath & inherits"
+msgstr ""
+
+#: ../../howtos/themes.rst:379
+msgid ""
+"You can also add images in your variables and use them on certain part of "
+"your pages, snippets or any html element."
+msgstr ""
+
+#: ../../howtos/themes.rst:382
+msgid ""
+"In :file:`odoo/addons/theme_dummy/static/style/custom.css` add these new "
+"lines"
+msgstr ""
+
+#: ../../howtos/themes.rst:392
+msgid ""
+"Now that you have set the background image, you can decide how and where the"
+" user can use it, for example, on a simple div."
+msgstr ""
+
+#: ../../howtos/themes.rst:395
+msgid ""
+"Open :file:`odoo/addons/theme_dummy/views/options.xml` and add this new "
+"xpath::"
+msgstr ""
+
+#: ../../howtos/themes.rst:405
+msgid ""
+"Your option is ready to be applied but you want it to be shown only a "
+"certain part of a snippet."
+msgstr ""
+
+#: ../../howtos/themes.rst:408
+msgid ""
+"Open :file:`odoo/addons/theme_dummy/views/snippets.xml` and add a new "
+"snippet with the method we learned previously::"
+msgstr ""
+
+#: ../../howtos/themes.rst:436
+msgid ""
+"As you see, the second ``col-md`` has a class named ``test-option``.  We are"
+" going to specify where this option can be turned on by adding the ``data-"
+"selector`` attribute."
+msgstr ""
+
+#: ../../howtos/themes.rst:440
+msgid "Go back to your ``options.xml`` files, add these new lines::"
+msgstr ""
+
+#: ../../howtos/themes.rst:446
+msgid ""
+"Refresh your browser. You should now be able to add your image background on"
+" the left div only.  The option is now available on each section but also on"
+" the left div with the custom class."
+msgstr ""
+
+#: ../../howtos/themes.rst:451
+msgid "The Image Database"
+msgstr ""
+
+#: ../../howtos/themes.rst:454
+msgid "Modifying the image database"
+msgstr ""
+
+#: ../../howtos/themes.rst:456
+msgid ""
+"Odoo provides its own image library but you certainly want to adapt it to "
+"your design.  Do not use the Media Manager uploading Tool to add image in "
+"your theme. The images url's will be lost on reload!  Instead of uploading "
+"your images, you can create your own library and disable the old ones."
+msgstr ""
+
+#: ../../howtos/themes.rst:461
+msgid ""
+"In ``odoo/addons/theme_dummy/views/`` create a new file, name it "
+"``images.xml`` and add these lines::"
+msgstr ""
+
+#: ../../howtos/themes.rst:472
+msgid ""
+"Your images is now available in your Media Manager.  And your Theme has a "
+"total new look."
+msgstr ""
+
+#: ../../howtos/themes.rst:476
+msgid "Theme Selector"
+msgstr ""
+
+#: ../../howtos/themes.rst:479
+msgid "Set Up"
+msgstr ""
+
+#: ../../howtos/themes.rst:482
+msgid "Understanding theme variants"
+msgstr ""
+
+#: ../../howtos/themes.rst:485
+msgid "Combining theme variants"
+msgstr ""

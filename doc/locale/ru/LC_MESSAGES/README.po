@@ -1,0 +1,172 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: odoo master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-19 19:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../README.rst:5
+msgid "Odoo Documentation"
+msgstr ""
+
+#: ../../README.rst:8
+msgid "Odoo Theme"
+msgstr ""
+
+#: ../../README.rst:10
+msgid ""
+"The Odoo Documentation theme is a bootstrap-based mix of http://odoo.com and"
+" http://getbootstrap.com with additional changes and additions, bundled as a"
+" Sphinx theme."
+msgstr ""
+
+#: ../../README.rst:14
+msgid ""
+"The main style file is ``_themes/odoodoc/static/style.less``, it is not "
+"converted on the fly and must be compiled manually when altere, using the "
+"official node-based lessc_ tool."
+msgstr ""
+
+#: ../../README.rst:18
+msgid ""
+"``odoodoc`` must be added as an extension to a project using the theme, it "
+"fixes some discrepancies between bootstrap_ and Sphinx_ and adds a few "
+"features:"
+msgstr ""
+
+#: ../../README.rst:23
+msgid "Sphinx Customizations"
+msgstr ""
+
+#: ../../README.rst:25
+msgid "toctree bullet lists (HTML ``<ul>``) are given the ``nav`` class"
+msgstr ""
+
+#: ../../README.rst:26
+msgid ""
+"the main navigation bar also gets the ``navbar-nav`` and ``navbar-right`` "
+"set on its root (``navbar-right`` could probably be handled in CSS to avoid "
+"having it in the markup)"
+msgstr ""
+
+#: ../../README.rst:29
+msgid "tables are given the ``table`` class"
+msgstr ""
+
+#: ../../README.rst:30
+msgid "colspecs are removed from tables, tables should autolayout"
+msgstr ""
+
+#: ../../README.rst:31
+msgid ""
+"``data-`` attributes are copied straight from the docutils node to the "
+"output HTML node"
+msgstr ""
+
+#: ../../README.rst:33
+msgid "an ``odoo`` pygments style based on the bootstrap_ documentation's"
+msgstr ""
+
+#: ../../README.rst:34
+msgid ""
+"the normal Sphinx sidebars are suppressed and a new sidebar is injected in "
+"``div.document`` (``sidebar1`` is outside in the base Sphinx layout)"
+msgstr ""
+
+#: ../../README.rst:36
+msgid "HTML5 doctype"
+msgstr ""
+
+#: ../../README.rst:39
+msgid "Additional features"
+msgstr ""
+
+#: ../../README.rst:41
+msgid ""
+"versions switcher, uses the ``canonical_root`` setting and an additional "
+"``versions`` setting which should be a comma-separated list of available "
+"versions. Appends the each version and page name to the root, and displays a"
+" list of those links on the current page"
+msgstr ""
+
+#: ../../README.rst:45
+msgid ""
+"canonical urls, requires a ``canonical_root`` setting value, and optionally "
+"a ``canonical_branch`` (default: ``master``)"
+msgstr ""
+
+#: ../../README.rst:47
+msgid ""
+":guilabel:`Edit on github` link in Sphinx pages if ``github_user`` and "
+"``github_project`` are provided"
+msgstr ""
+
+#: ../../README.rst:49
+msgid ""
+":guilabel:`[source]` links in autodoc content links to github with the same "
+"requirements (requires Sphinx 1.2)"
+msgstr ""
+
+#: ../../README.rst:51
+msgid ""
+"``aphorism`` class for admonitions, makes the first line of the admonition "
+"inline and the same size as the admonition category (mostly for short, "
+"single-phrase admonitions)"
+msgstr ""
+
+#: ../../README.rst:54
+msgid ""
+"``exercise`` directive, mostly for training-type documents, the "
+"``solutions`` tag_ can be used to conditionally show e.g. solutions"
+msgstr ""
+
+#: ../../README.rst:56
+msgid "a number of straight-to-HTML directives:"
+msgstr ""
+
+#: ../../README.rst:60
+msgid "``h:div``"
+msgstr ""
+
+#: ../../README.rst:59
+msgid ""
+"a straight div, can be used instead of ``container`` (which adds the "
+"``container`` class to the div it generates, that's really not compatible "
+"with Bootstrap_)"
+msgstr ""
+
+#: ../../README.rst:62
+msgid "``h:address``"
+msgstr ""
+
+#: ../../README.rst:63
+msgid "generates an ``<address>`` node"
+msgstr ""
+
+#: ../../README.rst:66
+msgid "a bunch of roles straight to HTML inline"
+msgstr ""
+
+#: ../../README.rst:65
+msgid ""
+"``mark``, ``insert``, ``delete``, ``strikethrough``, ``small`, ``kbd`` and "
+"``var`` generate the corresponding HTML element"
+msgstr ""
+
+#: ../../README.rst:69
+msgid "Requirements"
+msgstr ""
+
+#: ../../README.rst:71
+msgid "Sphinx 1.1, 1.2 for code Python code links"
+msgstr ""
+
+#: ../../README.rst:72
+msgid "sphinx-patchqueue (for the content, not the theme)"
+msgstr ""
