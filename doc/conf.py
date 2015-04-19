@@ -2,15 +2,19 @@
 import sys, os
 import sphinx
 
+# Вставка
+locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = False     # optional.
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-DIR = os.path.dirname(__file__)
-sys.path.append(
-    os.path.abspath(
-        os.path.join(DIR, '_themes')))
+# DIR = os.path.dirname(__file__)
+# sys.path.append(
+#     os.path.abspath(
+#         os.path.join(DIR, '_themes')))
 # autodoc
-sys.path.append(os.path.abspath(os.path.join(DIR, '..')))
+# sys.path.append(os.path.abspath(os.path.join(DIR, '..')))
 
 # -- General configuration -----------------------------------------------------
 

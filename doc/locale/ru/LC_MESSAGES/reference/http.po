@@ -1,0 +1,410 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: odoo 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-19 18:01+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../reference/http.rst:3
+msgid "Web Controllers"
+msgstr ""
+
+#: ../../reference/http.rst:8
+msgid "Routing"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:1
+msgid ""
+"Decorator marking the decorated method as being a handler for requests. The "
+"method must be part of a subclass of ``Controller``."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:4
+msgid ""
+"string or array. The route part that will determine which http requests will"
+" match the decorated method. Can be a single string or an array of strings. "
+"See werkzeug's routing documentation for the format of route expression ( "
+"http://werkzeug.pocoo.org/docs/routing/ )."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:9
+msgid "The type of request, can be ``'http'`` or ``'json'``."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:10
+msgid ""
+"The type of authentication method, can on of the following:  * ``user``: The"
+" user must be authenticated and the current request   will perform using the"
+" rights of the user. * ``admin``: The user may not be authenticated and the "
+"current request   will perform using the admin user. * ``none``: The method "
+"is always active, even if there is no   database. Mainly used by the "
+"framework and authentication   modules. There request code will not have any"
+" facilities to access   the database nor have any configuration indicating "
+"the current   database nor the current user."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:10
+msgid "The type of authentication method, can on of the following:"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:12
+msgid ""
+"``user``: The user must be authenticated and the current request will "
+"perform using the rights of the user."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:14
+msgid ""
+"``admin``: The user may not be authenticated and the current request will "
+"perform using the admin user."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:16
+msgid ""
+"``none``: The method is always active, even if there is no database. Mainly "
+"used by the framework and authentication modules. There request code will "
+"not have any facilities to access the database nor have any configuration "
+"indicating the current database nor the current user."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:21
+msgid ""
+"A sequence of http methods this route applies to. If not specified, all "
+"methods are allowed."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.route:23
+msgid "The Access-Control-Allow-Origin cors directive value."
+msgstr ""
+
+#: ../../reference/http.rst:15
+msgid "Request"
+msgstr ""
+
+#: ../../reference/http.rst:17
+msgid ""
+"The request object is automatically set on :data:`openerp.http.request` at "
+"the start of the request"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest:1
+msgid ""
+"Parent class for all Odoo Web request types, mostly deals with "
+"initialization and setup of the request object (the dispatching itself has "
+"to be handled by the subclasses)"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest:5
+msgid "a wrapped werkzeug Request object"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest:10
+msgid ""
+"the original :class:`werkzeug.wrappers.Request` object provided to the "
+"request"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest:15
+msgid ""
+":class:`~collections.Mapping` of request parameters, not generally useful as"
+" they're provided directly to the handler method as keyword arguments"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.env:1
+msgid "The :class:`~openerp.api.Environment` bound to current request."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.context:1
+msgid ""
+":class:`~collections.Mapping` of context values for the current request"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.session:1
+msgid ""
+"a :class:`OpenERPSession` holding the HTTP session data for the current http"
+" session"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.cr:1
+msgid ""
+":class:`~openerp.sql_db.Cursor` initialized for the current method call."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.cr:4
+msgid ""
+"Accessing the cursor when the current request uses the ``none`` "
+"authentication will raise an exception."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.debug:1
+msgid "Indicates whether the current request is in \"debug\" mode"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.session_id:1
+msgid ""
+"opaque identifier for the :class:`OpenERPSession` instance of the current "
+"request"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.session_id:6
+msgid "Use the ``sid`` attribute on :attr:`.session`"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.registry:1
+msgid ""
+"The registry to the database linked to this request. Can be ``None`` if the "
+"current request uses the ``none`` authentication."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.registry:6
+msgid "use :attr:`.env`"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.db:1
+msgid ""
+"The database linked to this request. Can be ``None`` if the current request "
+"uses the ``none`` authentication."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.httpsession:1
+msgid "HTTP session data"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.WebRequest.httpsession:5
+msgid "Use :attr:`.session` instead."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest:1
+msgid "Handler for the ``http`` request type."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest:3
+msgid ""
+"matched routing parameters, query string parameters, form_ parameters and "
+"files are passed to the handler method as keyword arguments."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest:6
+msgid "In case of name conflict, routing parameters have priority."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest:8
+msgid "The handler method's result can be:"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest:10
+msgid ""
+"a falsy value, in which case the HTTP response will be an `HTTP 204`_ (No "
+"Content)"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest:12
+msgid "a werkzeug Response object, which is returned as-is"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest:13
+msgid ""
+"a ``str`` or ``unicode``, will be wrapped in a Response object and "
+"interpreted as HTML"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of
+#: openerp.http.HttpRequest.make_response:1
+msgid ""
+"Helper for non-HTML responses, or HTML responses with custom response "
+"headers or cookies."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of
+#: openerp.http.HttpRequest.make_response:4
+msgid ""
+"While handlers can just return the HTML markup of a page they want to send "
+"as a string if non-HTML data is returned they need to create a complete "
+"response object, or the returned data will not be correctly interpreted by "
+"the clients."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of
+#: openerp.http.HttpRequest.make_response:9
+msgid "response body"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of
+#: openerp.http.HttpRequest.make_response:10
+msgid "HTTP headers to set on the response"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of
+#: openerp.http.HttpRequest.make_response:12
+msgid "cookies to set on the client"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest.not_found:1
+msgid ""
+"Shortcut for a `HTTP 404 "
+"<http://tools.ietf.org/html/rfc7231#section-6.5.4>`_ (Not Found) response"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest.render:1
+msgid "Lazy render of a QWeb template."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest.render:3
+msgid ""
+"The actual rendering of the given template will occur at then end of the "
+"dispatching. Meanwhile, the template and/or qcontext can be altered or even "
+"replaced by a static response."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest.render:7
+#: ../../../openerp/http.pydocstring of openerp.http.Response:7
+msgid "template to render"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest.render:8
+#: ../../../openerp/http.pydocstring of openerp.http.Response:8
+msgid "Rendering context to use"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest.render:9
+msgid ""
+"whether the template rendering should be deferred until the last possible "
+"moment"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.HttpRequest.render:11
+msgid "forwarded to werkzeug's Response object"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.JsonRequest:1
+msgid ""
+"Request handler for `JSON-RPC 2 <http://www.jsonrpc.org/specification>`_ "
+"over HTTP"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.JsonRequest:4
+msgid "``method`` is ignored"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.JsonRequest:5
+msgid ""
+"``params`` must be a JSON object (not an array) and is passed as keyword "
+"arguments to the handler method"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.JsonRequest:7
+msgid ""
+"the handler method's result is returned as JSON-RPC ``result`` and wrapped "
+"in the `JSON-RPC Response "
+"<http://www.jsonrpc.org/specification#response_object>`_"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.JsonRequest:11
+msgid "Sucessful request::"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.JsonRequest:23
+msgid "Request producing a error::"
+msgstr ""
+
+#: ../../reference/http.rst:29
+msgid "Response"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.Response:1
+msgid "Response object passed through controller route chain."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.Response:3
+msgid ""
+"In addition to the :class:`werkzeug.wrappers.Response` parameters, this "
+"class's constructor can take the following additional parameters for QWeb "
+"Lazy Rendering."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.Response:9
+msgid ""
+"User id to use for the ir.ui.view render call, ``None`` to use the request's"
+" user (the default)"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.Response:12
+msgid ""
+"these attributes are available as parameters on the Response object and can "
+"be altered at any time before rendering"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.Response:15
+msgid ""
+"Also exposes all the attributes and methods of "
+":class:`werkzeug.wrappers.Response`."
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.Response.render:1
+msgid "Renders the Response's template, returns the result"
+msgstr ""
+
+#: ../../../openerp/http.pydocstring of openerp.http.Response.flatten:1
+msgid ""
+"Forces the rendering of the response's template, sets the result as response"
+" body and unsets :attr:`.template`"
+msgstr ""
+
+#: ../../reference/http.rst:42
+msgid "Controllers"
+msgstr ""
+
+#: ../../reference/http.rst:44
+msgid ""
+"Controllers need to provide extensibility, much like "
+":class:`~openerp.models.Model`, but can't use the same mechanism as the pre-"
+"requisites (a database with loaded modules) may not be available yet (e.g. "
+"no database created, or no database selected)."
+msgstr ""
+
+#: ../../reference/http.rst:49
+msgid ""
+"Controllers thus provide their own extension mechanism, separate from that "
+"of models:"
+msgstr ""
+
+#: ../../reference/http.rst:52
+msgid ""
+"Controllers are created by :ref:`inheriting <python:tut-inheritance>` from"
+msgstr ""
+
+#: ../../reference/http.rst:56
+msgid "and defining methods decorated with :func:`~openerp.http.route`::"
+msgstr ""
+
+#: ../../reference/http.rst:63
+msgid ""
+"To *override* a controller, :ref:`inherit <python:tut-inheritance>` from its"
+" class and override relevant methods, re-exposing them if necessary::"
+msgstr ""
+
+#: ../../reference/http.rst:72
+msgid ""
+"decorating with :func:`~openerp.http.route` is necessary to keep the method "
+"(and route) visible: if the method is redefined without decorating, it will "
+"be \"unpublished\""
+msgstr ""
+
+#: ../../reference/http.rst:75
+msgid ""
+"the decorators of all methods are combined, if the overriding method's "
+"decorator has no argument all previous ones will be kept, any provided "
+"argument will override previously defined ones e.g.::"
+msgstr ""
+
+#: ../../reference/http.rst:84
+msgid ""
+"will change ``/some_url`` from public authentication to user (requiring a "
+"log-in)"
+msgstr ""
